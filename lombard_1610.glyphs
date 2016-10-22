@@ -1,201 +1,32 @@
 {
 .appVersion = "895";
-DisplayStrings = (
-"maffia hajfa \012bufka fjordy\012ff fi fj fb jf aj",
-"w/aogonek t/lslash y normalny\012alkoholowy co/sacute \012mieszany robak\012normalny teresa",
-"ania@gmail.com\012(coma) fakt*[kot] \012& #warszawski\012naprawd/eogonek  ?!",
-"&231",
-"r/r.init s/r.fina/r.isol",
-r/r.init/r.fina/r.isol,
-"",
-nn,
-fifka,
-"fiat ",
-"/acutecomb a`\U00E0\U00E1/abreve \U00E2\U00E4\U00E0/amacron \U00E5\U00E3\U00E6/ccaron \U00E7\U00F0/dcaron/dcroat \U00E9/ecaron \U00EA\U00EB/edotaccent \U00E8/emacron/gcommaaccent \U00ED\U00EE\U00EF\U00EC/imacron/iogonek/kcommaaccent/lacute/lcaron/lcommaaccent/ncaron/ncommaaccent/eng \U00F1\U00F4\U00F6\U00F2/ohungarumlaut/omacron \U00F8\U00F5/oe \U00FE/racute/rcaron/rcommaaccent/scaron/scedilla \U00DF/tbar/tcaron/tcedilla \U00FA\U00FB\U00FC\U00F9/uhungarumlaut/umacron/uogonek/uring/wacute/wcircumflex/wdieresis/wgrave \U00FD/ycircumflex/ydieresis/ygrave/zcaron",
-"",
-/tkreska,
-fffgff,
-"",
-/r_z/jkoncowa,
-"",
-"",
-"/tkreska i",
-"",
-"",
-"   \012   ",
-i/zdotaccent,
-"",
-/j_f,
-"/j.ss01 j",
-Df,
-D,
-"",
-"",
-"",
-"\012/igora",
-"/jkoncowa \012",
-l,
-/f.init,
-"",
-f,
-"",
-f,
-f,
-"",
-fila,
-f/j.ss01,
-"onvfja ",
-"agfa ",
-"",
-" fi l",
-j/j.fina,
-"q     tt",
-"ff ",
-"/f.ss02 f",
-"n/f.ss03 b/f.ss04",
-/f.prbl,
-"/f.ss05 i/f.ss06",
-"y/f.ss07 ny/f.ss08 iy",
-/f.ss03/f.ss09,
-/f.ss02/f.ss10,
-/f.ss02/f.ss08/f.ss10,
-"f/f.fina j/j.fina",
-"C/C.init/C.fina/C.isol E/E.init/E.fina/E.isol",
-a/a.init/a.fina/a.isol,
-/ogonek/aogonek/aogonek.init/aogonek.fina/aogonek.isol,
-"/cbrzuch c/c.init/c.fina/c.isol",
-e/e.init/e.fina/e.isol,
-nscn/s.init/s.fina/s.isol,
-s/s.init/s.fina/s.isol,
-"*J/backslash \U00B7/bullet :,/ellipsis !\U00A1#.?\U00BF\"';//_",
-"*no/backslash cokolwiek\U00B7/bullet :,n/ellipsis !\U00A1#no..!no?F\U00BF\"';//_",
-"*/backslash \U00B7/bullet :,/ellipsis !\U00A1#.?\U00BFLnl\"';//no_name",
-"*/backslash \U00B7/bullet :,/ellipsis !\U00A1#.?\U00BF\"';//_{}[no](no)/ndol nn/emdash n/endash/nogakoniec n-n\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase \012/quotedblleft l/quotedblright/quoteleft d/quoteright arc/quotesinglbase",
-"Al/A.init/A.fina/A.isol B/B.init/B.fina/B.isol C/C.init/C.fina/C.isol D/D.init/D.fina/D.isol E/E.init/E.fina/E.isol F/F.init/F.fina/F.isol G/G.init/G.fina/G.isol H/H.init/H.fina/H.isol I/I.init/I.fina/I.isol J/J.init/J.fina/J.isol K/K.init/K.fina/K.isol L/L.init/L.fina/L.isol M/M.init/M.fina/M.isol N/N.init/N.fina/N.isol O/O.init/O.fina/O.isol P/P.init/P.fina/P.isol Q/Q.init/Q.fina/Q.isol R/R.init/R.fina/R.isol S/S.init/S.fina/S.isol T/T.init/T.fina/T.isol U/U.init/U.fina/U.isol V/V.init/V.fina/V.isol W/W.init/W.fina/W.isol X/X.init/X.fina/X.isol Y/Y.init/Y.fina/Y.isol Z/Z.init/Z.fina/Z.isol",
-01CL23456789,
-"/ndol nop/glaska y",
-g/g.init/g.fina/g.isol,
-"/igora j/j.init/j.fina/j.isol",
-/j.ss01,
-"a/a.init/a.fina/a.isol/aogonek/aogonek.init/aogonek.fina/aogonek.isol b/b.init/b.fina/b.isol c/c.init/c.fina/c.isol/cacute/cacute.init/cacute.fina/cacute.isol d/d.init/d.fina/d.isol e/e.init/e.fina/e.isol/eogonek/eogonek.init/eogonek.fina/eogonek.isol f/f.init/f.fina/f.isol g/g.init/g.fina/g.isol h/h.init/h.fina/h.isol i/i.init/i.fina/i.isol j/j.init/j.fina/j.isol k/k.init/k.fina/k.isol l/l.init/l.fina/l.isol/lslash/lslash.init/lslash.fina/lslash.isol m/m.init/m.fina/m.isol n/n.init/n.fina/n.isol/nacute/nacute.init/nacute.fina/nacute.isol o/o.init/o.fina/o.isol \U00F3/oacute.init/oacute.fina/oacute.isol p/p.init/p.fina/p.isol q/q.init/q.fina/q.isol r/r.init/r.fina/r.isol s/s.init/s.fina/s.isol/sacute/sacute.init/sacute.fina/sacute.isol t/t.init/t.fina/t.isol u/u.init/u.fina/u.isol v/v.init/v.fina/v.isol w/w.init/w.fina/w.isol x/x.init/x.fina/x.isol y/y.init/y.fina/y.isol z/z.init/z.fina/z.isol/zacute/zdotaccent",
-S/S.init/S.fina/S.isol,
-nnnnone,
-O,
-"/acutecomb \U00E1/breve on/abreve/circumflex \U00E2\U00A8.\U00E4\U00B4/cacute/cacute `a\U00E0\U00AF\U00AF/amacron/ring \U00E5/dotaccentcomb i/tilde \U00E3",
-"/acutecomb \U00E1/breve/abreve/circumflex \U00E2\U00E4``\U00E0\U00AF/amacron a/ring \U00E5/tilde \U00E3",
-"/breve a/abreve/brevecomb g/gbreve",
-"/circumflex \U00E2e\U00EA\U00EEo\U00F4/igora u\U00FBw/wcircumflex y/ycircumflex",
-"ag\U00E4\U00EB\U00EF\U00F6\U00A8\U00FC/wdieresis/ydieresis",
-"\U00E0\U00E8\U00EC\U00F2\U00F9/wgrave/ygrave",
-/emacron/omacron/umacron,
-/uring,
-"/ring/ring \U00E5/ringcomb/uring",
-"\U00E3",
-"\U00E3n\U00F1\U00F5",
-"/circumflex \U00E2/caron/ccaron",
-"/ccaron/ecaron n/ncaron r/rcaron s/scaron/zcaron",
-z/z.init/z.fina/z.isol,
-"\U00B8\U00E7/ogonek/aogonek/dotaccentcomb \U00B4/cacute/cdotaccent/dotaccentcomb f f i",
-"\U00B8\U00E7/cedillacomb/scedilla/tcedilla",
-"\U00E7/scedilla/tcedilla",
-"/idotless i",
-/cdotaccent/edotaccent/gdotaccent/idotless/idotaccent,
-"a\U00E1/a.fina/aacute.fina/a.init/aacute.init/a.isol/aacute.isol/abreve/abreve.fina/abreve.init/abreve.isol \U00E2/acircumflex.fina/acircumflex.init/acircumflex.isol \U00E4/adieresis.fina/adieresis.init/adieresis.isol \U00E0/agrave.fina/agrave.init/agrave.isol/amacron/amacron.fina/amacron.init/amacron.isol/aogonek/aogonek.fina/aogonek.init/aogonek.isol \U00E5/aring.fina/aring.init/aring.isol \U00E3/atilde.fina/atilde.init/atilde.isol",
-b/b.fina/b.init/b.isol,
-"c/c.fina/c.init/c.isol/cacute/cacute.fina/cacute.init/cacute.isol/ccaron/ccaron.fina/ccaron.init/ccaron.isol \U00E7/ccedilla.fina/ccedilla.init/ccedilla.isol/cdotaccent/cdotaccent.fina/cdotaccent.init/cdotaccent.isol",
-"e/e.fina/e.init/e.isol \U00E9/eacute.fina/eacute.init/eacute.isol/ecaron/ecaron.fina/ecaron.init/ecaron.isol \U00EA/ecircumflex.fina/ecircumflex.init/ecircumflex.isol \U00EB/edieresis.fina/edieresis.init/edieresis.isol/dotaccentcomb/edotaccent/edotaccent.fina/edotaccent.init/edotaccent.isol \U00E8/egrave.fina/egrave.init/egrave.isol/emacron/emacron.fina/emacron.init/emacron.isol/eogonek/eogonek.fina/eogonek.init/eogonek.isol",
-g/g.fina/g.init/g.isol/gbreve/gbreve.fina/gbreve.init/gbreve.isol,
-i/i.fina/i.init/i.isol/idotless/idotless.fina/idotless.init/idotless.isol,
-"Ania WWielu/nacute ska",
-a/idotless/idotless.fina/idotless.init/idotless.isol,
-"a\U00E1\U00ED/iacute.fina/iacute.init/iacute.isol a/circumflex \U00E2\U00EE/icircumflex.fina/icircumflex.init/icircumflex.isol a\U00E4\U00EF/idieresis.fina/idieresis.init/idieresis.isol e\U00E8\U00EC/igrave.fina/igrave.init/igrave.isol a/amacron/imacron/imacron.fina/imacron.init/imacron.isol/iogonek/aogonek/iogonek.fina/iogonek.init/iogonek.isol",
-"n/n.fina/n.init/n.isol/nacute/nacute.fina/nacute.init/nacute.isol/caron/ncaron/ncaron.fina/ncaron.init/ncaron.isol/ncommaaccent/ncommaaccent.fina/ncommaaccent.init/ncommaaccent.isol/eng \U00F1/ntilde.fina/ntilde.init/ntilde.isol",
-"o/o.fina/o.init/o.isol o\U00B4\U00F3/oacute.fina/oacute.init/oacute.isol \U00F4/ocircumflex.fina/ocircumflex.init/ocircumflex.isol \U00F6/odieresis.fina/odieresis.init/odieresis.isol `\U00F2/gravecomb/ograve.fina/ograve.init/ograve.isol/hungarumlaut/ohungarumlaut/hungarumlautcomb/ohungarumlaut.fina/ohungarumlaut.init/ohungarumlaut.isol \U00AF/omacron/macroncomb/omacron.fina/omacron.init/omacron.isol",
-"/tilde \U00F5/tildecomb/otilde.fina/otilde.init/otilde.isol",
-"r/r.fina/r.init/r.isol/racute/racute.fina/racute.init/racute.isol/caron r/rcaron/caroncomb/r.fina/rcaron.fina/r.init/rcaron.init/r.isol/rcaron.isol",
-s/s.fina/s.init/s.isol/sacute/sacute.fina/sacute.init/sacute.isol/scaron/scaron.fina/scaron.init/scaron.isol/scedilla/scedilla.fina/scedilla.init/scedilla.isol,
-/tcedilla/tcedilla.fina/tcedilla.init/tcedilla.isol,
-"u/u.fina/u.init/u.isol \U00FA/uacute.fina/uacute.init/uacute.isol/circumflex \U00FB/circumflexcomb/ucircumflex.fina/ucircumflex.init/ucircumflex.isol \U00A8\U00FC/dieresiscomb/udieresis.fina/udieresis.init/udieresis.isol \U00F9/ugrave.fina/ugrave.init/ugrave.isol/uhungarumlaut/uhungarumlaut.fina/uhungarumlaut.init/uhungarumlaut.isol/umacron/umacron.fina/umacron.init/umacron.isol/uogonek/ogonekcomb/uogonek.fina/uogonek.init/uogonek.isol/uring/uring.fina/uring.init/uring.isol",
-w/w.fina/w.init/w.isol/wacute/wacute.fina/wacute.init/wacute.isol/wcircumflex/wcircumflex.fina/wcircumflex.init/wcircumflex.isol/wdieresis/wdieresis.fina/wdieresis.init/wdieresis.isol/wgrave/wgrave.fina/wgrave.init/wgrave.isol,
-"y/y.fina/y.init/y.isol \U00FD/yacute.fina/yacute.init/yacute.isol/ycircumflex/ycircumflex.fina/ycircumflex.init/ycircumflex.isol/ydieresis/ydieresis.fina/ydieresis.init/ydieresis.isol/ygrave/ygrave.fina/ygrave.init/ygrave.isol",
-nz/z.fina/z.init/z.isol/zacute/zcaron/zcaron.fina/zcaron.init/zcaron.isol/zdotaccent/zdotaccent.fina/zdotaccent.init/zdotaccent.isol,
-"aA/A.fina/A.init/A.isol \U00C1/Aacute.fina/Aacute.init/Aacute.isol/Abreve/Abreve.fina/Abreve.init/Abreve.isol \U00C2/Acircumflex.fina/Acircumflex.init/Acircumflex.isol \U00C4/Adieresis.fina/Adieresis.init/Adieresis.isol \U00C0/Agrave.fina/Agrave.init/Agrave.isol/Amacron/Amacron.fina/Amacron.init/Amacron.isol/aogonek/Aogonek/Aogonek.fina/Aogonek.init/Aogonek.isol \U00C5/Aring.fina/Aring.init/Aring.isol \U00C3/Atilde.fina/Atilde.init/Atilde.isol",
-B/B.fina/B.init/B.isol,
-"AC/C.fina/C.init/C.isol/Cacute/Cacute.fina/Cacute.init/Cacute.isol/Ccaron/Ccaron.fina/Ccaron.init/Ccaron.isol \U00C7/Ccedilla.fina/Ccedilla.init/Ccedilla.isol/Cdotaccent/Cdotaccent.fina/Cdotaccent.init/Cdotaccent.isol",
-"AE/E.fina/E.init/E.isol \U00C9/Eacute.fina/Eacute.init/Eacute.isol/Ecaron/Ecaron.fina/Ecaron.init/Ecaron.isol \U00CA/Ecircumflex.fina/Ecircumflex.init/Ecircumflex.isol \U00CB/Edieresis.fina/Edieresis.init/Edieresis.isol/Edotaccent/Edotaccent.fina/Edotaccent.init/Edotaccent.isol \U00C8/Egrave.fina/Egrave.init/Egrave.isol/Emacron/Emacron.fina/Emacron.init/Emacron.isol/Eogonek n/Eogonek.fina/Eogonek.init/Eogonek.isol",
-EG/G.fina/G.init/G.isol/Gbreve/Gbreve.fina/Gbreve.init/Gbreve.isol/Gcommaaccent/Gcommaaccent.fina/Gcommaaccent.init/Gcommaaccent.isol/Gdotaccent/Gdotaccent.fina/Gdotaccent.init/Gdotaccent.isol,
-"EI/I.fina/I.init/I.isol \U00CD/Iacute.fina/Iacute.init/Iacute.isol \U00CE/Icircumflex.fina/Icircumflex.init/Icircumflex.isol \U00CF/Idieresis.fina/Idieresis.init/Idieresis.isol/Idotaccent/Idotaccent.fina/Idotaccent.init/Idotaccent.isol \U00CC/Igrave.fina/Igrave.init/Igrave.isol/Imacron/Imacron.fina/Imacron.init/Imacron.isol/Iogonek/Iogonek.fina/Iogonek.init/Iogonek.isol",
-"EN/N.fina/N.init/N.isol/Nacute/Nacute.fina/Nacute.init/Nacute.isol/Ncaron/Ncaron.fina/Ncaron.init/Ncaron.isol/Ncommaaccent/Ncommaaccent.fina/Ncommaaccent.init/Ncommaaccent.isol/Eng \U00D1/Ntilde.fina/Ntilde.init/Ntilde.isol",
-"EO/O.fina/O.init/O.isol \U00D3/Oacute.fina/Oacute.init/Oacute.isol \U00D4/Ocircumflex.fina/Ocircumflex.init/Ocircumflex.isol \U00D6/Odieresis.fina/Odieresis.init/Odieresis.isol \U00D2/Ograve.fina/Ograve.init/Ograve.isol/Ohungarumlaut/Ohungarumlaut.fina/Ohungarumlaut.init/Ohungarumlaut.isol/Omacron/Omacron.fina/Omacron.init/Omacron.isol \U00D8/Oslash.fina/Oslash.init/Oslash.isol \U00D5/Otilde.fina/Otilde.init/Otilde.isol",
-EBPR/Bterminal/R.fina/R.init/R.isol/Racute/Racute.fina/Racute.init/Racute.isol/Rcaron/Rcaron.fina/Rcaron.init/Rcaron.isol/Rcommaaccent/Rcommaaccent.fina/Rcommaaccent.init/Rcommaaccent.isol,
-S,
-ES/S.fina/S.init/S.isol/Sacute/Sacute.fina/Sacute.init/Sacute.isol/Scaron/Scaron.fina/Scaron.init/Scaron.isol/Scedilla/Scedilla.fina/Scedilla.init/Scedilla.isol/Scommaaccent/Scommaaccent.fina/Scommaaccent.init/Scommaaccent.isol,
-ET/T.fina/T.init/T.isol/Tbar/Tbar.fina/Tbar.init/Tbar.isol/Tcaron/Tcaron.fina/Tcaron.init/Tcaron.isol/Tcedilla/Tcedilla.fina/Tcedilla.init/Tcedilla.isol,
-"E/Mokragle U/U.fina/U.init/U.isol \U00DA/Uacute.fina/Uacute.init/Uacute.isol \U00DB/Ucircumflex.fina/Ucircumflex.init/Ucircumflex.isol \U00DC/Udieresis.fina/Udieresis.init/Udieresis.isol \U00D9/Ugrave.fina/Ugrave.init/Ugrave.isol/Uhungarumlaut/Uhungarumlaut.fina/Uhungarumlaut.init/Uhungarumlaut.isol/Umacron/Umacron.fina/Umacron.init/Umacron.isol/Uogonek/Uogonek.fina/Uogonek.init/Uogonek.isol/Uring/Uring.fina/Uring.init/Uring.isol",
-V/V.fina/V.init/V.isol,
-"/igora/hlaskagorna EW/W.fina/W.init/W.isol/Wacute/Wacute.fina/Wacute.init/Wacute.isol/Wcircumflex/Wcircumflex.fina/Wcircumflex.init/Wcircumflex.isol/Wdieresis/Wdieresis.fina/Wdieresis.init/Wdieresis.isol/Wgrave/Wgrave.fina/Wgrave.init/Wgrave.isol",
-"EY/Y.fina/Y.init/Y.isol \U00DD/Yacute.fina/Yacute.init/Yacute.isol/Ycircumflex/Ycircumflex.fina/Ycircumflex.init/Ycircumflex.isol/Ydieresis/Ydieresis.fina/Ydieresis.init/Ydieresis.isol/Ygrave/Ygrave.fina/Ygrave.init/Ygrave.isol",
-EZ/Z.fina/Z.init/Z.isol/Zacute/Zacute.fina/Zacute.init/Zacute.isol/Zcaron/Zcaron.fina/Zcaron.init/Zcaron.isol/Zdotaccent/Zdotaccent.fina/Zdotaccent.init/Zdotaccent.isol,
-A,
-"/ndol A/ndolinit/A.fina/A.init/A.isol \U00C1",
-"/igora/hlaskagorna/igora H/H.fina/H.init/H.isol",
-"/igora/ndol M/nogakoniec/M.fina/M.init/M.isol",
-N/nogakoniec/N.fina/N.init/N.isol,
-U/U.fina/U.init/U.isol,
-H/H.fina/H.init/H.isol,
-I/I.fina/I.init/I.isol,
-ED/D.fina/D.init/D.isol,
-P/P.fina/P.init/P.isol,
-"/ndol/hlaskagorna h/h.fina/h.init/h.isol",
-"\U00C6/AE.fina/AE.init/AE.isol",
-A/ndolinit/A.fina/A.init/A.isol,
-"aee\U00E6/ae.fina/ae.init/ae.isol",
-"/cbrzuchkoniec/e.fina \U00E6/ae.fina/ae.init/ae.isol",
-"\U00E6/oe",
-"d/d.fina/d.init 6/d.isol \U00F0",
-/dcaron,
-"/dcaron na/dcaron.fina/dcaron.init/dcaron.isol aa\U00AF/amacron/dcroat/dcroat.fina/dcroat.init/dcroat.isol",
-/dcroat/hbar/hbar.fina/hbar.init/hbar.isol,
-"/dcaron Al/l.fina/l.init/l.isol/lacute/lacute.fina/lacute.init/lacute.isol/lcaron n/lcaron.fina/lcaron.init/lcaron.isol",
-"tm/lslash a/lslash.fina/lslash.init/lslash.isol",
-"/hbar.fina f/tkreska t /tbar/tbar.fina/tbar.init/tbar.isol",
-/dcaron/tcaron/tcaron.fina/tcaron.init/tcaron.isol,
-"/gcommaaccent a`\U00E0i/commaturnedabovecomb/gcommaaccent.fina/gcommaaccent.init/gcommaaccent.isol k/kcommaaccent/commaaccentcomb/k.fina/kcommaaccent.fina/k.init/kcommaaccent.init/k.isol/kcommaaccent.isol/lcommaaccent/lcommaaccent.fina/lcommaaccent.init/lcommaaccent.isol/ncommaaccent/ncommaaccent.fina/ncommaaccent.init/ncommaaccent.isol/rcommaaccent/rcommaaccent.fina/rcommaaccent.init/rcommaaccent.isol/scommaaccent/scommaaccent.fina/scommaaccent.init/scommaaccent.isol/tcommaaccent/tcommaaccent.fina/tcommaaccent.init/tcommaaccent.isol",
-"/Gcommaaccent/gcommaaccent.fina/commaturnedabovecomb/Gcommaaccent.fina \U00C1/Gcommaaccent.init/Gcommaaccent.isol/Kcommaaccent/Kcommaaccent.fina/Kcommaaccent.init/Kcommaaccent.isol/Lcommaaccent/Lcommaaccent.fina/Lcommaaccent.init n/Lcommaaccent.isol N/Ncommaaccent/N.fina/Ncommaaccent.fina/Ncommaaccent.init/Ncommaaccent.isol/Rcommaaccent/Rcommaaccent.fina/Rcommaaccent.init/Rcommaaccent.isol/Scommaaccent/Scommaaccent.fina/Scommaaccent.init/Scommaaccent.isol",
-EL/L.fina/L.init/L.isol/Lacute/Lcaron/Lcaron.fina/Lcaron.init/Lcaron.isol/Lcommaaccent/Lcommaaccent.fina/Lcommaaccent.init/Lcommaaccent.isol/Lslash/Lslash.fina/Lslash.init/Lslash.isol,
-L/L.fina/L.init/L.isol,
-t/Tbar/Tbar.fina/Tbar.init/Tbar.isol,
-t/t.fina/t.init/t.isol,
-/tbar/Tbar/Tbar.fina/Tbar.init/Tbar.isol,
-/Tbar
-);
 classes = (
 {
-code = "a a.init a.fina a.isol aogonek aogonek.init aogonek.fina aogonek.isol b b.init b.fina b.isol c c.init c.fina c.isol cacute cacute.init cacute.isol d d.init d.fina d.isol e e.init e.fina e.isol eogonek eogonek.init eogonek.fina eogonek.isol f f.init f.fina f.isol g g.init g.fina g.isol h h.init h.fina h.isol i i.init i.fina i.isol j j.init j.fina j.isol k k.init k.fina k.isol l l.init l.fina l.isol lslash m m.init m.fina m.isol n n.init n.fina n.isol nacute nacute.init nacute.fina nacute.isol o o.init o.fina o.isol oacute oacute.init oacute.fina oacute.isol p p.init p.fina p.isol q q.init q.fina q.isol r r.init r.fina r.isol s s.init s.fina s.isol sacute sacute.init sacute.fina sacute.isol t t.init t.fina t.isol u u.init u.fina u.isol v v.init v.fina v.isol w w.init w.fina w.isol x x.init x.fina x.isol y y.init y.fina y.isol z z.init z.fina z.isol zacute zdotaccent A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gcommaaccent H I Iacute Icircumflex Idieresis Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent A.fina B.fina C.fina D.fina E.fina F.fina G.fina H.fina I.fina J.fina K.fina L.fina M.fina N.fina O.fina P.fina Q.fina R.fina S.fina T.fina U.fina V.fina W.fina X.fina Y.fina Z.fina A.init B.init C.init D.init E.init F.init G.init H.init I.init J.init K.init L.init M.init N.init O.init P.init Q.init R.init S.init T.init U.init V.init W.init X.init Y.init Z.init A.isol B.isol C.isol D.isol E.isol F.isol G.isol H.isol I.isol J.isol K.isol L.isol M.isol N.isol O.isol P.isol Q.isol R.isol S.isol T.isol U.isol V.isol W.isol X.isol Y.isol Z.isol aacute abreve acircumflex adieresis agrave amacron aring atilde ae ccaron ccedilla eth dcaron dcroat eacute ecaron ecircumflex edieresis edotaccent egrave emacron gcommaaccent iacute icircumflex idieresis igrave imacron iogonek kcommaaccent lacute lcaron lcommaaccent ncaron ncommaaccent eng ntilde ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe thorn racute rcaron rcommaaccent scaron scedilla germandbls tbar tcaron tcedilla uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring wacute wcircumflex wdieresis wgrave yacute ycircumflex ydieresis ygrave zcaron ";
+code = "A A.fina A.init A.isol Aacute Aacute.fina Aacute.init Aacute.isol Abreve Abreve.fina Abreve.init Abreve.isol Acircumflex Acircumflex.fina Acircumflex.init Acircumflex.isol Adieresis Adieresis.fina Adieresis.init Adieresis.isol Agrave Agrave.fina Agrave.init Agrave.isol Amacron Amacron.fina Amacron.init Amacron.isol Aogonek Aogonek.fina Aogonek.init Aogonek.isol Aring Aring.fina Aring.init Aring.isol Atilde Atilde.fina Atilde.init Atilde.isol AE AE.fina AE.init AE.isol B B.fina B.init B.isol C C.fina C.init C.isol Cacute Cacute.fina Cacute.init Cacute.isol Ccaron Ccaron.fina Ccaron.init Ccaron.isol Ccedilla Ccedilla.fina Ccedilla.init Ccedilla.isol Cdotaccent Cdotaccent.fina Cdotaccent.init Cdotaccent.isol D D.fina D.init D.isol Eth Dcaron Dcaron.fina Dcaron.init Dcaron.isol Dcroat Dcroat.fina Dcroat.init Dcroat.isol E E.fina E.init E.isol Eacute Eacute.fina Eacute.init Eacute.isol Ecaron Ecaron.fina Ecaron.init Ecaron.isol Ecircumflex Ecircumflex.fina Ecircumflex.init Ecircumflex.isol Edieresis Edieresis.fina Edieresis.init Edieresis.isol Edotaccent Edotaccent.fina Edotaccent.init Edotaccent.isol Egrave Egrave.fina Egrave.init Egrave.isol Emacron Emacron.fina Emacron.init Emacron.isol Eogonek Eogonek.fina Eogonek.init Eogonek.isol F F.fina F.init F.isol G G.fina G.init G.isol Gbreve Gbreve.fina Gbreve.init Gbreve.isol Gcommaaccent Gcommaaccent.fina Gcommaaccent.init Gcommaaccent.isol Gdotaccent Gdotaccent.fina Gdotaccent.init Gdotaccent.isol H H.fina H.init H.isol Hbar Hbar.fina Hbar.init Hbar.isol I I.fina I.init I.isol Iacute Iacute.fina Iacute.init Iacute.isol Icircumflex Icircumflex.fina Icircumflex.init Icircumflex.isol Idieresis Idieresis.fina Idieresis.init Idieresis.isol Idotaccent Idotaccent.fina Idotaccent.init Idotaccent.isol Igrave Igrave.fina Igrave.init Igrave.isol Imacron Imacron.fina Imacron.init Imacron.isol Iogonek Iogonek.fina Iogonek.init Iogonek.isol J J.fina J.init J.isol K K.fina K.init K.isol Kcommaaccent Kcommaaccent.fina Kcommaaccent.init Kcommaaccent.isol L L.fina L.init L.isol Lacute Lacute.fina Lacute.init Lacute.isol Lcaron Lcaron.fina Lcaron.init Lcaron.isol Lcommaaccent Lcommaaccent.fina Lcommaaccent.init Lcommaaccent.isol Lslash Lslash.fina Lslash.init Lslash.isol M M.fina M.init M.isol N N.fina N.init N.isol Nacute Nacute.fina Nacute.init Nacute.isol Ncaron Ncaron.fina Ncaron.init Ncaron.isol Ncommaaccent Ncommaaccent.fina Ncommaaccent.init Ncommaaccent.isol Eng Ntilde Ntilde.fina Ntilde.init Ntilde.isol O O.fina O.init O.isol Oacute Oacute.fina Oacute.init Oacute.isol Ocircumflex Ocircumflex.fina Ocircumflex.init Ocircumflex.isol Odieresis Odieresis.fina Odieresis.init Odieresis.isol Ograve Ograve.fina Ograve.init Ograve.isol Ohungarumlaut Ohungarumlaut.fina Ohungarumlaut.init Ohungarumlaut.isol Omacron Omacron.fina Omacron.init Omacron.isol Oslash Oslash.fina Oslash.init Oslash.isol Otilde Otilde.fina Otilde.init Otilde.isol OE P P.fina P.init P.isol Thorn Q Q.fina Q.init Q.isol R R.fina R.init R.isol Racute Racute.fina Racute.init Racute.isol Rcaron Rcaron.fina Rcaron.init Rcaron.isol Rcommaaccent Rcommaaccent.fina Rcommaaccent.init Rcommaaccent.isol S S.fina S.init S.isol Sacute Sacute.fina Sacute.init Sacute.isol Scaron Scaron.fina Scaron.init Scaron.isol Scedilla Scedilla.fina Scedilla.init Scedilla.isol Scommaaccent Scommaaccent.fina Scommaaccent.init Scommaaccent.isol T T.fina T.init T.isol Tbar Tbar.fina Tbar.init Tbar.isol Tcaron Tcaron.fina Tcaron.init Tcaron.isol Tcedilla Tcedilla.fina Tcedilla.init Tcedilla.isol U U.fina U.init U.isol Uacute Uacute.fina Uacute.init Uacute.isol Ucircumflex Ucircumflex.fina Ucircumflex.init Ucircumflex.isol Udieresis Udieresis.fina Udieresis.init Udieresis.isol Ugrave Ugrave.fina Ugrave.init Ugrave.isol Uhungarumlaut Uhungarumlaut.fina Uhungarumlaut.init Uhungarumlaut.isol Umacron Umacron.fina Umacron.init Umacron.isol Uogonek Uogonek.fina Uogonek.init Uogonek.isol Uring Uring.fina Uring.init Uring.isol V V.fina V.init V.isol W W.fina W.init W.isol Wacute Wacute.fina Wacute.init Wacute.isol Wcircumflex Wcircumflex.fina Wcircumflex.init Wcircumflex.isol Wdieresis Wdieresis.fina Wdieresis.init Wdieresis.isol Wgrave Wgrave.fina Wgrave.init Wgrave.isol X X.fina X.init X.isol Y Y.fina Y.init Y.isol Yacute Yacute.fina Yacute.init Yacute.isol Ycircumflex Ycircumflex.fina Ycircumflex.init Ycircumflex.isol Ydieresis Ydieresis.fina Ydieresis.init Ydieresis.isol Ygrave Ygrave.fina Ygrave.init Ygrave.isol Z Z.fina Z.init Z.isol Zacute Zacute.fina Zacute.init Zacute.isol Zcaron Zcaron.fina Zcaron.init Zcaron.isol Zdotaccent Zdotaccent.fina Zdotaccent.init Zdotaccent.isol a a.fina a.init a.isol aacute aacute.fina aacute.init aacute.isol abreve abreve.fina abreve.init abreve.isol acircumflex acircumflex.fina acircumflex.init acircumflex.isol adieresis adieresis.fina adieresis.init adieresis.isol agrave agrave.fina agrave.init agrave.isol amacron amacron.fina amacron.init amacron.isol aogonek aogonek.fina aogonek.init aogonek.isol aring aring.fina aring.init aring.isol atilde atilde.fina atilde.init atilde.isol ae ae.fina ae.init ae.isol b b.fina b.init b.isol c c.fina c.init c.isol cacute cacute.fina cacute.init cacute.isol ccaron ccaron.fina ccaron.init ccaron.isol ccedilla ccedilla.fina ccedilla.init ccedilla.isol cdotaccent cdotaccent.fina cdotaccent.init cdotaccent.isol d d.fina d.init d.isol eth dcaron dcaron.fina dcaron.init dcaron.isol dcroat dcroat.fina dcroat.init dcroat.isol e e.fina e.init e.isol eacute eacute.fina eacute.init eacute.isol ecaron ecaron.fina ecaron.init ecaron.isol ecircumflex ecircumflex.fina ecircumflex.init ecircumflex.isol edieresis edieresis.fina edieresis.init edieresis.isol edotaccent edotaccent.fina edotaccent.init edotaccent.isol egrave egrave.fina egrave.init egrave.isol emacron emacron.fina emacron.init emacron.isol eogonek eogonek.fina eogonek.init eogonek.isol f f.fina f.init f.isol f.ss01 g g.fina g.init g.isol gbreve gbreve.fina gbreve.init gbreve.isol gcommaaccent gcommaaccent.fina gcommaaccent.init gcommaaccent.isol gdotaccent gdotaccent.fina gdotaccent.init gdotaccent.isol h h.fina h.init h.isol hbar hbar.fina hbar.init hbar.isol i i.fina i.init i.isol idotless idotless.fina idotless.init idotless.isol iacute iacute.fina iacute.init iacute.isol icircumflex icircumflex.fina icircumflex.init icircumflex.isol idieresis idieresis.fina idieresis.init idieresis.isol igrave igrave.fina igrave.init igrave.isol imacron imacron.fina imacron.init imacron.isol iogonek iogonek.fina iogonek.init iogonek.isol j j.fina j.init j.isol j.ss01 k k.fina k.init k.isol kcommaaccent kcommaaccent.fina kcommaaccent.init kcommaaccent.isol l l.fina l.init l.isol lacute lacute.fina lacute.init lacute.isol lcaron lcaron.fina lcaron.init lcaron.isol lcommaaccent lcommaaccent.fina lcommaaccent.init lcommaaccent.isol lslash lslash.fina lslash.init lslash.isol m m.fina m.init m.isol n n.fina n.init n.isol nacute nacute.fina nacute.init nacute.isol ncaron ncaron.fina ncaron.init ncaron.isol ncommaaccent ncommaaccent.fina ncommaaccent.init ncommaaccent.isol eng ntilde ntilde.fina ntilde.init ntilde.isol o o.fina o.init o.isol oacute oacute.fina oacute.init oacute.isol ocircumflex ocircumflex.fina ocircumflex.init ocircumflex.isol odieresis odieresis.fina odieresis.init odieresis.isol ograve ograve.fina ograve.init ograve.isol ohungarumlaut ohungarumlaut.fina ohungarumlaut.init ohungarumlaut.isol omacron omacron.fina omacron.init omacron.isol oslash oslash.fina oslash.init oslash.isol otilde otilde.fina otilde.init otilde.isol oe p p.fina p.init p.isol thorn q q.fina q.init q.isol r r.fina r.init r.isol racute racute.fina racute.init racute.isol rcaron rcaron.fina rcaron.init rcaron.isol rcommaaccent rcommaaccent.fina rcommaaccent.init rcommaaccent.isol s s.fina s.init s.isol sacute sacute.fina sacute.init sacute.isol scaron scaron.fina scaron.init scaron.isol scedilla scedilla.fina scedilla.init scedilla.isol scommaaccent scommaaccent.fina scommaaccent.init scommaaccent.isol germandbls t t.fina t.init t.isol tbar tbar.fina tbar.init tbar.isol tcaron tcaron.fina tcaron.init tcaron.isol tcedilla tcedilla.fina tcedilla.init tcedilla.isol tcommaaccent tcommaaccent.fina tcommaaccent.init tcommaaccent.isol u u.fina u.init u.isol uacute uacute.fina uacute.init uacute.isol ucircumflex ucircumflex.fina ucircumflex.init ucircumflex.isol udieresis udieresis.fina udieresis.init udieresis.isol ugrave ugrave.fina ugrave.init ugrave.isol uhungarumlaut uhungarumlaut.fina uhungarumlaut.init uhungarumlaut.isol umacron umacron.fina umacron.init umacron.isol uogonek uogonek.fina uogonek.init uogonek.isol uring uring.fina uring.init uring.isol v v.fina v.init v.isol w w.fina w.init w.isol wacute wacute.fina wacute.init wacute.isol wcircumflex wcircumflex.fina wcircumflex.init wcircumflex.isol wdieresis wdieresis.fina wdieresis.init wdieresis.isol wgrave wgrave.fina wgrave.init wgrave.isol x x.fina x.init x.isol y y.fina y.init y.isol yacute yacute.fina yacute.init yacute.isol ycircumflex ycircumflex.fina ycircumflex.init ycircumflex.isol ydieresis ydieresis.fina ydieresis.init ydieresis.isol ygrave ygrave.fina ygrave.init ygrave.isol z z.fina z.init z.isol zacute zacute.fina zacute.init zacute.isol zcaron zcaron.fina zcaron.init zcaron.isol zdotaccent zdotaccent.fina zdotaccent.init zdotaccent.isol Tcommaaccent Eng.fina OE.fina Thorn.fina Eng.init OE.init Thorn.init Eng.isol OE.isol Thorn.isol idotaccent eth.fina idotaccent.fina eng.fina oe.fina thorn.fina germandbls.fina eth.init idotaccent.init eng.init oe.init thorn.init germandbls.init eth.isol idotaccent.isol eng.isol oe.isol thorn.isol germandbls.isol f.prbl f.ss02 f.ss03 f.ss04 f.ss05 f.ss06 f.ss07 f.ss08 f.ss09 f.ss10 g_f j_f r_z y_j y_f_i.fina f.init_f_i";
 name = AnyLetter;
 },
 {
-code = "a b c d e f g h i j k l m n o p q r s t u v w x y z \012A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\012aogonek\012eogonek\012cacute\012nacute\012lslash";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent Gdotaccent H Hbar I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde P Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent T Tbar Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla cdotaccent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek f g gbreve gcommaaccent gdotaccent h hbar i idotless iacute icircumflex idieresis igrave imacron iogonek j k kcommaaccent l lacute lcaron lcommaaccent lslash m n nacute ncaron ncommaaccent ntilde o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p q r racute rcaron rcommaaccent s sacute scaron scedilla scommaaccent t tbar tcaron tcedilla tcommaaccent u uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent ";
 name = Medial;
 },
 {
-code = "a b.init c.init d.init e.init f.init g.init h.init i.init j.init k.init l.init m.init n.init o.init p.init q.init r.init s.init t.init u.init v.init w.init x.init y.init z.init\012\012A.init B.init C.init D.init E.init F.init G.init H.init I.init J.init K.init L.init M.init N.init O.init P.init Q.init R.init S.init T.init U.init V.init W.init X.init Y.init Z.init\012\012aogonek.init\012eogonek.init\012cacute.init\012nacute.init\012lslash.init";
+code = "A.init Aacute.init Abreve.init Acircumflex.init Adieresis.init Agrave.init Amacron.init Aogonek.init Aring.init Atilde.init AE.init B.init C.init Cacute.init Ccaron.init Ccedilla.init Cdotaccent.init D.init Dcaron.init Dcroat.init E.init Eacute.init Ecaron.init Ecircumflex.init Edieresis.init Edotaccent.init Egrave.init Emacron.init Eogonek.init F.init G.init Gbreve.init Gcommaaccent.init Gdotaccent.init H.init Hbar.init I.init Iacute.init Icircumflex.init Idieresis.init Idotaccent.init Igrave.init Imacron.init Iogonek.init J.init K.init Kcommaaccent.init L.init Lacute.init Lcaron.init Lcommaaccent.init Lslash.init M.init N.init Nacute.init Ncaron.init Ncommaaccent.init Ntilde.init O.init Oacute.init Ocircumflex.init Odieresis.init Ograve.init Ohungarumlaut.init Omacron.init Oslash.init Otilde.init P.init Q.init R.init Racute.init Rcaron.init Rcommaaccent.init S.init Sacute.init Scaron.init Scedilla.init Scommaaccent.init T.init Tbar.init Tcaron.init Tcedilla.init U.init Uacute.init Ucircumflex.init Udieresis.init Ugrave.init Uhungarumlaut.init Umacron.init Uogonek.init Uring.init V.init W.init Wacute.init Wcircumflex.init Wdieresis.init Wgrave.init X.init Y.init Yacute.init Ycircumflex.init Ydieresis.init Ygrave.init Z.init Zacute.init Zcaron.init Zdotaccent.init a.init aacute.init abreve.init acircumflex.init adieresis.init agrave.init amacron.init aogonek.init aring.init atilde.init ae.init b.init c.init cacute.init ccaron.init ccedilla.init cdotaccent.init d.init dcaron.init dcroat.init e.init eacute.init ecaron.init ecircumflex.init edieresis.init edotaccent.init egrave.init emacron.init eogonek.init f.init g.init gbreve.init gcommaaccent.init gdotaccent.init h.init hbar.init i.init idotless.init iacute.init icircumflex.init idieresis.init igrave.init imacron.init iogonek.init j.init k.init kcommaaccent.init l.init lacute.init lcaron.init lcommaaccent.init lslash.init m.init n.init nacute.init ncaron.init ncommaaccent.init ntilde.init o.init oacute.init ocircumflex.init odieresis.init ograve.init ohungarumlaut.init omacron.init oslash.init otilde.init p.init q.init r.init racute.init rcaron.init rcommaaccent.init s.init sacute.init scaron.init scedilla.init scommaaccent.init t.init tbar.init tcaron.init tcedilla.init tcommaaccent.init u.init uacute.init ucircumflex.init udieresis.init ugrave.init uhungarumlaut.init umacron.init uogonek.init uring.init v.init w.init wacute.init wcircumflex.init wdieresis.init wgrave.init x.init y.init yacute.init ycircumflex.init ydieresis.init ygrave.init z.init zacute.init zcaron.init zdotaccent.init ";
 name = Initial;
 },
 {
-code = "a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina\012\012A.fina B.fina C.fina D.fina E.fina F.fina G.fina H.fina I.fina J.fina K.fina L.fina M.fina N.fina O.fina P.fina Q.fina R.fina S.fina T.fina U.fina V.fina W.fina X.fina Y.fina Z.fina\012\012aogonek.fina\012eogonek.fina\012cacute.fina\012nacute.fina\012lslash.fina";
+code = "A.fina Aacute.fina Abreve.fina Acircumflex.fina Adieresis.fina Agrave.fina Amacron.fina Aogonek.fina Aring.fina Atilde.fina AE.fina B.fina C.fina Cacute.fina Ccaron.fina Ccedilla.fina Cdotaccent.fina D.fina Dcaron.fina Dcroat.fina E.fina Eacute.fina Ecaron.fina Ecircumflex.fina Edieresis.fina Edotaccent.fina Egrave.fina Emacron.fina Eogonek.fina F.fina G.fina Gbreve.fina Gcommaaccent.fina Gdotaccent.fina H.fina Hbar.fina I.fina Iacute.fina Icircumflex.fina Idieresis.fina Idotaccent.fina Igrave.fina Imacron.fina Iogonek.fina J.fina K.fina Kcommaaccent.fina L.fina Lacute.fina Lcaron.fina Lcommaaccent.fina Lslash.fina M.fina N.fina Nacute.fina Ncaron.fina Ncommaaccent.fina Ntilde.fina O.fina Oacute.fina Ocircumflex.fina Odieresis.fina Ograve.fina Ohungarumlaut.fina Omacron.fina Oslash.fina Otilde.fina P.fina Q.fina R.fina Racute.fina Rcaron.fina Rcommaaccent.fina S.fina Sacute.fina Scaron.fina Scedilla.fina Scommaaccent.fina T.fina Tbar.fina Tcaron.fina Tcedilla.fina U.fina Uacute.fina Ucircumflex.fina Udieresis.fina Ugrave.fina Uhungarumlaut.fina Umacron.fina Uogonek.fina Uring.fina V.fina W.fina Wacute.fina Wcircumflex.fina Wdieresis.fina Wgrave.fina X.fina Y.fina Yacute.fina Ycircumflex.fina Ydieresis.fina Ygrave.fina Z.fina Zacute.fina Zcaron.fina Zdotaccent.fina a.fina aacute.fina abreve.fina acircumflex.fina adieresis.fina agrave.fina amacron.fina aogonek.fina aring.fina atilde.fina ae.fina b.fina c.fina cacute.fina ccaron.fina ccedilla.fina cdotaccent.fina d.fina dcaron.fina dcroat.fina e.fina eacute.fina ecaron.fina ecircumflex.fina edieresis.fina edotaccent.fina egrave.fina emacron.fina eogonek.fina f.fina g.fina gbreve.fina gcommaaccent.fina gdotaccent.fina h.fina hbar.fina i.fina idotless.fina iacute.fina icircumflex.fina idieresis.fina igrave.fina imacron.fina iogonek.fina j.fina k.fina kcommaaccent.fina l.fina lacute.fina lcaron.fina lcommaaccent.fina lslash.fina m.fina n.fina nacute.fina ncaron.fina ncommaaccent.fina ntilde.fina o.fina oacute.fina ocircumflex.fina odieresis.fina ograve.fina ohungarumlaut.fina omacron.fina oslash.fina otilde.fina p.fina q.fina r.fina racute.fina rcaron.fina rcommaaccent.fina s.fina sacute.fina scaron.fina scedilla.fina scommaaccent.fina t.fina tbar.fina tcaron.fina tcedilla.fina tcommaaccent.fina u.fina uacute.fina ucircumflex.fina udieresis.fina ugrave.fina uhungarumlaut.fina umacron.fina uogonek.fina uring.fina v.fina w.fina wacute.fina wcircumflex.fina wdieresis.fina wgrave.fina x.fina y.fina yacute.fina ycircumflex.fina ydieresis.fina ygrave.fina z.fina zacute.fina zcaron.fina zdotaccent.fina ";
 name = Final;
 },
 {
-code = "a.isol b.isol c.isol d.isol e.isol f.isol g.isol h.isol i.isol j.isol k.isol l.isol m.isol n.isol o.isol p.isol q.isol r.isol s.isol t.isol u.isol v.isol w.isol x.isol y.isol z.isol\012\012A.isol B.isol C.isol D.isol E.isol F.isol G.isol H.isol I.isol J.isol K.isol L.isol M.isol N.isol O.isol P.isol Q.isol R.isol S.isol T.isol U.isol V.isol W.isol X.isol Y.isol Z.isol\012\012aogonek.isol\012eogonek.isol\012cacute.isol\012nacute.isol\012lslash.isol";
+code = "A.isol Aacute.isol Abreve.isol Acircumflex.isol Adieresis.isol Agrave.isol Amacron.isol Aogonek.isol Aring.isol Atilde.isol AE.isol B.isol C.isol Cacute.isol Ccaron.isol Ccedilla.isol Cdotaccent.isol D.isol Dcaron.isol Dcroat.isol E.isol Eacute.isol Ecaron.isol Ecircumflex.isol Edieresis.isol Edotaccent.isol Egrave.isol Emacron.isol Eogonek.isol F.isol G.isol Gbreve.isol Gcommaaccent.isol Gdotaccent.isol H.isol Hbar.isol I.isol Iacute.isol Icircumflex.isol Idieresis.isol Idotaccent.isol Igrave.isol Imacron.isol Iogonek.isol J.isol K.isol Kcommaaccent.isol L.isol Lacute.isol Lcaron.isol Lcommaaccent.isol Lslash.isol M.isol N.isol Nacute.isol Ncaron.isol Ncommaaccent.isol Ntilde.isol O.isol Oacute.isol Ocircumflex.isol Odieresis.isol Ograve.isol Ohungarumlaut.isol Omacron.isol Oslash.isol Otilde.isol P.isol Q.isol R.isol Racute.isol Rcaron.isol Rcommaaccent.isol S.isol Sacute.isol Scaron.isol Scedilla.isol Scommaaccent.isol T.isol Tbar.isol Tcaron.isol Tcedilla.isol U.isol Uacute.isol Ucircumflex.isol Udieresis.isol Ugrave.isol Uhungarumlaut.isol Umacron.isol Uogonek.isol Uring.isol V.isol W.isol Wacute.isol Wcircumflex.isol Wdieresis.isol Wgrave.isol X.isol Y.isol Yacute.isol Ycircumflex.isol Ydieresis.isol Ygrave.isol Z.isol Zacute.isol Zcaron.isol Zdotaccent.isol a.isol aacute.isol abreve.isol acircumflex.isol adieresis.isol agrave.isol amacron.isol aogonek.isol aring.isol atilde.isol ae.isol b.isol c.isol cacute.isol ccaron.isol ccedilla.isol cdotaccent.isol d.isol dcaron.isol dcroat.isol e.isol eacute.isol ecaron.isol ecircumflex.isol edieresis.isol edotaccent.isol egrave.isol emacron.isol eogonek.isol f.isol g.isol gbreve.isol gcommaaccent.isol gdotaccent.isol h.isol hbar.isol i.isol idotless.isol iacute.isol icircumflex.isol idieresis.isol igrave.isol imacron.isol iogonek.isol j.isol k.isol kcommaaccent.isol l.isol lacute.isol lcaron.isol lcommaaccent.isol lslash.isol m.isol n.isol nacute.isol ncaron.isol ncommaaccent.isol ntilde.isol o.isol oacute.isol ocircumflex.isol odieresis.isol ograve.isol ohungarumlaut.isol omacron.isol oslash.isol otilde.isol p.isol q.isol r.isol racute.isol rcaron.isol rcommaaccent.isol s.isol sacute.isol scaron.isol scedilla.isol scommaaccent.isol t.isol tbar.isol tcaron.isol tcedilla.isol tcommaaccent.isol u.isol uacute.isol ucircumflex.isol udieresis.isol ugrave.isol uhungarumlaut.isol umacron.isol uogonek.isol uring.isol v.isol w.isol wacute.isol wcircumflex.isol wdieresis.isol wgrave.isol x.isol y.isol yacute.isol ycircumflex.isol ydieresis.isol ygrave.isol z.isol zacute.isol zcaron.isol zdotaccent.isol ";
 name = Isolated;
 },
 {
-code = "b c e o p q r s v w I D F T P\012b.init c.init e.init o.init p.init q.init r.init s.init v.init w.init D.init F.init T.init\012P.init I.init";
+code = "b c cacute cacute.init ccaron ccaron.init ccedilla ccedilla.init cdotaccent cdotaccent.init \012e eacute eacute.init ecaron ecaron.init ecircumflex ecircumflex.init edieresis edieresis.init edotaccent edotaccent.init egrave egrave.init emacron emacron.init eogonek eogonek.init \012o oacute oacute.init ocircumflex ocircumflex.init odieresis odieresis.init ograve ograve.init ohungarumlaut ohungarumlaut.init omacron omacron.init oslash oslash.init otilde otilde.init\012p \012q \012r racute racute.init rcaron rcaron.init rcommaaccent rcommaaccent.init \012 s sacute sacute.init scaron scaron.init scedilla scedilla.init scommaaccent scommaaccent.init \012 v \012 w wacute wacute.init wcircumflex wcircumflex.init wdieresis wdieresis.init wgrave wgrave.init \012 I Iacute Iacute.init Icircumflex Icircumflex.init Idieresis Idieresis.init Idotaccent Idotaccent.init Igrave Igrave.init Imacron Imacron.init Iogonek Iogonek.init \012 D Dcaron Dcaron.init Dcroat Dcroat.init \012 F \012 T Tbar Tbar.init Tcaron Tcaron.init Tcedilla Tcedilla.init  \012 P\012b.init c.init e.init o.init p.init q.init r.init s.init v.init w.init D.init F.init T.init\012P.init I.init";
 name = problemf;
 },
 {
-code = "b l k h\012b.fina l.fina k.fina h.fina";
+code = "b l lacute lacute.fina lcaron lcaron.fina lcommaaccent lcommaaccent.fina lslash lslash.fina \012 k kcommaaccent kcommaaccent.fina  h hbar hbar.fina \012b.fina l.fina k.fina h.fina";
 name = dlugie;
 },
 {
@@ -203,7 +34,7 @@ code = "";
 name = DevaIMatras;
 },
 {
-code = "y j g\012y.init j.init g.init";
+code = "y j g gbreve gbreve.init gcommaaccent gcommaaccent.init gdotaccent gdotaccent.init yacute yacute.init ycircumflex ycircumflex.init ydieresis ydieresis.init ygrave ygrave.init \012y.init j.init g.init";
 name = yjg;
 },
 {
@@ -229,6 +60,18 @@ name = DevaFullforms;
 {
 code = "";
 name = DevaHalfforms;
+},
+{
+code = "a.init aacute.init abreve.init acircumflex.init adieresis.init agrave.init amacron.init aogonek.init aring.init atilde.init ae.init c.init cacute.init ccaron.init ccedilla.init cdotaccent.init d.init dcaron.init dcroat.init e.init eacute.init ecaron.init ecircumflex.init edieresis.init edotaccent.init egrave.init emacron.init eogonek.init h.init hbar.init i.init idotless.init iacute.init icircumflex.init idieresis.init igrave.init imacron.init iogonek.init k.init kcommaaccent.init l.init lacute.init lcaron.init lcommaaccent.init lslash.init m.init n.init nacute.init ncaron.init ncommaaccent.init ntilde.init t.init tbar.init tcaron.init tcedilla.init tcommaaccent.init u.init uacute.init ucircumflex.init udieresis.init ugrave.init uhungarumlaut.init umacron.init uogonek.init uring.init x.init ";
+name = problemsinit;
+},
+{
+code = "a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae c cacute ccaron ccedilla cdotaccent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek h hbar i idotless iacute icircumflex idieresis igrave imacron iogonek k kcommaaccent l lacute lcaron lcommaaccent lslash m n nacute ncaron ncommaaccent ntilde t tbar tcaron tcedilla tcommaaccent u uacute ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring x ";
+name = problemsmedi;
+},
+{
+code = "a.fina aacute.fina abreve.fina acircumflex.fina adieresis.fina agrave.fina amacron.fina aogonek.fina aring.fina atilde.fina ae.fina c.fina cacute.fina ccaron.fina ccedilla.fina cdotaccent.fina d.fina dcaron.fina dcroat.fina e.fina eacute.fina ecaron.fina ecircumflex.fina edieresis.fina edotaccent.fina egrave.fina emacron.fina eogonek.fina h.fina hbar.fina i.fina idotless.fina iacute.fina icircumflex.fina idieresis.fina igrave.fina imacron.fina iogonek.fina k.fina kcommaaccent.fina l.fina lacute.fina lcaron.fina lcommaaccent.fina lslash.fina m.fina n.fina nacute.fina ncaron.fina ncommaaccent.fina ntilde.fina t.fina tbar.fina tcaron.fina tcedilla.fina tcommaaccent.fina u.fina uacute.fina ucircumflex.fina udieresis.fina ugrave.fina uhungarumlaut.fina umacron.fina uogonek.fina uring.fina x.fina ";
+name = problemsfina;
 }
 );
 customParameters = (
@@ -1581,7 +1424,7 @@ tilde
 );
 date = "2016-05-07 21:48:29 +0000";
 designer = "Ania Wieluńska";
-familyName = Lombard;
+familyName = Lombard_prev1;
 featurePrefixes = (
 {
 automatic = 1;
@@ -1591,7 +1434,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#ALTERNEJTY\012\012lookup ISOLATED {\012   ignore sub @Medial' @AnyLetter, @AnyLetter @Medial';\012   sub @Medial' by @Isolated;\012} ISOLATED;\012\012lookup INITIAL {\012   ignore sub @AnyLetter @Medial';\012   sub @Medial' by @Initial;\012} INITIAL;\012\012lookup FINAL {\012   ignore sub @Medial' @AnyLetter;\012   sub @Medial' by @Final;\012} FINAL;\012\012sub r z by r_z;\012sub r z.fina by r_z;\012sub r.init z by r_z;\012sub r.init z.fina by r_z;\012\012sub j j' by j.ss01;\012sub j.init j' by j.ss01;\012sub j j.fina' by j.ss01;\012sub j.init j.fina' by j.ss01;\012sub j.ss01 j' by j.ss01;\012sub j.ss01 j.fina' by j.ss01;\012\012sub @problemf f' @dlugie by f.ss04;\012sub @problemf f' f by f.ss02;\012sub @problemf  f' f.fina by f.ss02;\012sub @problemf f' i by f.ss06;\012sub @problemf f' i.fina by f.ss06;\012sub @problemf f' j by f.ss06;\012sub @problemf f' j.fina by f.ss06;\012sub @yjg f' i by f.ss08;\012sub @yjg f' j by f.ss08;\012sub @yjg f' i.fina by f.ss08;\012sub @yjg f' j.fina by f.ss08;\012sub @yjg f' i by f.ss08;\012sub @yjg f' [b l k h b.fina l.fina k.fina h.fina] by f.ss09;\012sub @yjg f' [f f.fina] by f.ss10;\012\012sub @problemf f' by f.prbl;\012sub @problemf f.fina' by f.prbl;\012\012sub f' @dlugie by f.ss03;\012sub f.init' @dlugie by f.ss04;\012sub f.prbl' @dlugie by f.ss04;\012\012sub f' f by f.ss01;\012sub f' f.fina by f.ss01;\012sub f.init' f by f.ss02;\012sub f.init' f.fina by f.ss02;\012\012sub f' i by f.ss05;\012sub f' i.fina by f.ss05;\012sub f.init' i by f.ss06;\012sub f.init' i.fina by f.ss06;\012\012sub f' j by f.ss05;\012sub f' j.fina by f.ss05;\012sub f.init' j by f.ss06;\012sub f.init' j.fina by f.ss06;\012\012sub f.ss05 j' by j.ss01;\012sub f.ss05 j.fina' by j.ss01;\012sub f.ss06 j' by j.ss01;\012sub f.ss06 j.fina' by j.ss01;\012sub f.ss08 j' by j.ss01;\012sub f.ss08 j.fina' by j.ss01;\012\012sub @yjg f' by f.ss07;\012sub @yjg f.fina' by f.ss07;\012sub [g g.init j j.init y y.init] j' by j.ss01;\012sub [g g.init j j.init y y.init] j.fina' by j.ss01;\012\012sub @problemf j' by j.init;\012sub @problemf j.fina' by j.init;\012\012sub [a c d e h i k l lslash m n t u x ]' s by \012[a.fina c.fina d.fina e.fina h.fina i.fina k.fina l.fina lslash.fina m.fina n.fina t.fina u.fina x.fina];\012\012sub [a.init c.init d.init e.init h.init i.init k.init l.init lslash.init m.init n.init t.init u.init x.init ]' s by \012[a.fina c.fina d.fina e.fina h.fina i.fina k.fina l.fina lslash.fina m.fina n.fina t.fina u.fina x.fina];\012\012sub [a c d e h i k l lslash m n t u x ]' s.fina by \012[a.fina c.fina d.fina e.fina h.fina i.fina k.fina l.fina lslash.fina m.fina n.fina t.fina u.fina x.fina];\012\012sub [a.init c.init d.init e.init h.init i.init k.init l.init lslash.init m.init n.init t.init u.init x.init ]' s.fina by \012[a.fina c.fina d.fina e.fina h.fina i.fina k.fina l.fina lslash.fina m.fina n.fina t.fina u.fina x.fina];\012";
+code = "#ALTERNEJTY\012\012lookup ISOLATED {\012   ignore sub @Medial' @AnyLetter, @AnyLetter @Medial';\012   sub @Medial' by @Isolated;\012} ISOLATED;\012\012lookup INITIAL {\012   ignore sub @AnyLetter @Medial';\012   sub @Medial' by @Initial;\012} INITIAL;\012\012lookup FINAL {\012   ignore sub @Medial' @AnyLetter;\012   sub @Medial' by @Final;\012} FINAL;\012\012sub r z by r_z;\012sub r z.fina by r_z;\012sub r.init z by r_z;\012sub r.init z.fina by r_z;\012\012sub j j' by j.ss01;\012sub j.init j' by j.ss01;\012sub j j.fina' by j.ss01;\012sub j.init j.fina' by j.ss01;\012sub j.ss01 j' by j.ss01;\012sub j.ss01 j.fina' by j.ss01;\012\012sub @problemf f' @dlugie by f.ss04;\012sub @problemf f' f by f.ss02;\012sub @problemf  f' f.fina by f.ss02;\012sub @problemf f' i by f.ss06;\012sub @problemf f' i.fina by f.ss06;\012sub @problemf f' j by f.ss06;\012sub @problemf f' j.fina by f.ss06;\012sub @yjg f' i by f.ss08;\012sub @yjg f' j by f.ss08;\012sub @yjg f' i.fina by f.ss08;\012sub @yjg f' j.fina by f.ss08;\012sub @yjg f' i by f.ss08;\012sub @yjg f' [b l k h b.fina l.fina k.fina h.fina] by f.ss09;\012sub @yjg f' [f f.fina] by f.ss10;\012\012sub @problemf f' by f.prbl;\012sub @problemf f.fina' by f.prbl;\012\012sub f' @dlugie by f.ss03;\012sub f.init' @dlugie by f.ss04;\012sub f.prbl' @dlugie by f.ss04;\012\012sub f' f by f.ss01;\012sub f' f.fina by f.ss01;\012sub f.init' f by f.ss02;\012sub f.init' f.fina by f.ss02;\012\012sub f' i by f.ss05;\012sub f' i.fina by f.ss05;\012sub f.init' i by f.ss06;\012sub f.init' i.fina by f.ss06;\012\012sub f' j by f.ss05;\012sub f' j.fina by f.ss05;\012sub f.init' j by f.ss06;\012sub f.init' j.fina by f.ss06;\012\012sub f.ss05 j' by j.ss01;\012sub f.ss05 j.fina' by j.ss01;\012sub f.ss06 j' by j.ss01;\012sub f.ss06 j.fina' by j.ss01;\012sub f.ss08 j' by j.ss01;\012sub f.ss08 j.fina' by j.ss01;\012\012sub @yjg f' by f.ss07;\012sub @yjg f.fina' by f.ss07;\012sub @yjg j' by j.ss01;\012sub @yjg j.fina' by j.ss01;\012\012sub @problemf j' by j.init;\012sub @problemf j.fina' by j.init;\012\012sub @problemsmedi' s by @problemsfina;\012sub @problemsinit' s by @problemsfina;\012sub @problemsmedi' s.fina by @problemsfina;\012sub @problemsinit' s.fina by @problemsfina;\012sub @problemsmedi' sacute by @problemsfina;\012sub @problemsinit' sacute by @problemsfina;\012sub @problemsmedi' sacute.fina by @problemsfina;\012sub @problemsinit' sacute.fina by @problemsfina;\012sub @problemsmedi' scaron by @problemsfina;\012sub @problemsinit' scaron by @problemsfina;\012sub @problemsmedi' scaron.fina by @problemsfina;\012sub @problemsinit' scaron.fina by @problemsfina;\012sub @problemsmedi' scedilla by @problemsfina;\012sub @problemsinit' scedilla by @problemsfina;\012sub @problemsmedi' scedilla.fina by @problemsfina;\012sub @problemsinit' scedilla.fina by @problemsfina;\012sub @problemsmedi' scommaaccent by @problemsfina;\012sub @problemsinit' scommaaccent by @problemsfina;\012sub @problemsmedi' scommaaccent.fina by @problemsfina;\012sub @problemsinit' scommaaccent.fina by @problemsfina;\012\012";
 name = calt;
 },
 {
@@ -1611,17 +1454,17 @@ name = locl;
 },
 {
 automatic = 1;
-code = "sub A by A.isol;\012sub B by B.isol;\012sub C by C.isol;\012sub D by D.isol;\012sub E by E.isol;\012sub F by F.isol;\012sub G by G.isol;\012sub H by H.isol;\012sub I by I.isol;\012sub J by J.isol;\012sub K by K.isol;\012sub L by L.isol;\012sub M by M.isol;\012sub N by N.isol;\012sub O by O.isol;\012sub P by P.isol;\012sub Q by Q.isol;\012sub R by R.isol;\012sub S by S.isol;\012sub T by T.isol;\012sub U by U.isol;\012sub V by V.isol;\012sub W by W.isol;\012sub X by X.isol;\012sub Y by Y.isol;\012sub Z by Z.isol;\012sub a by a.isol;\012sub aacute by aacute.isol;\012sub abreve by abreve.isol;\012sub acircumflex by acircumflex.isol;\012sub adieresis by adieresis.isol;\012sub agrave by agrave.isol;\012sub amacron by amacron.isol;\012sub aogonek by aogonek.isol;\012sub aring by aring.isol;\012sub atilde by atilde.isol;\012sub ae by ae.isol;\012sub b by b.isol;\012sub c by c.isol;\012sub cacute by cacute.isol;\012sub ccaron by ccaron.isol;\012sub ccedilla by ccedilla.isol;\012sub cdotaccent by cdotaccent.isol;\012sub d by d.isol;\012sub dcaron by dcaron.isol;\012sub dcroat by dcroat.isol;\012sub e by e.isol;\012sub eacute by eacute.isol;\012sub ecaron by ecaron.isol;\012sub ecircumflex by ecircumflex.isol;\012sub edieresis by edieresis.isol;\012sub edotaccent by edotaccent.isol;\012sub egrave by egrave.isol;\012sub emacron by emacron.isol;\012sub eogonek by eogonek.isol;\012sub f by f.isol;\012sub g by g.isol;\012sub gbreve by gbreve.isol;\012sub gcommaaccent by gcommaaccent.isol;\012sub gdotaccent by gdotaccent.isol;\012sub h by h.isol;\012sub hbar by hbar.isol;\012sub i by i.isol;\012sub idotless by idotless.isol;\012sub iacute by iacute.isol;\012sub icircumflex by icircumflex.isol;\012sub idieresis by idieresis.isol;\012sub igrave by igrave.isol;\012sub imacron by imacron.isol;\012sub iogonek by iogonek.isol;\012sub j by j.isol;\012sub k by k.isol;\012sub kcommaaccent by kcommaaccent.isol;\012sub l by l.isol;\012sub lacute by lacute.isol;\012sub lcaron by lcaron.isol;\012sub lcommaaccent by lcommaaccent.isol;\012sub lslash by lslash.isol;\012sub m by m.isol;\012sub n by n.isol;\012sub nacute by nacute.isol;\012sub ncaron by ncaron.isol;\012sub ncommaaccent by ncommaaccent.isol;\012sub ntilde by ntilde.isol;\012sub o by o.isol;\012sub oacute by oacute.isol;\012sub ocircumflex by ocircumflex.isol;\012sub odieresis by odieresis.isol;\012sub ograve by ograve.isol;\012sub ohungarumlaut by ohungarumlaut.isol;\012sub omacron by omacron.isol;\012sub oslash by oslash.isol;\012sub otilde by otilde.isol;\012sub p by p.isol;\012sub q by q.isol;\012sub r by r.isol;\012sub racute by racute.isol;\012sub rcaron by rcaron.isol;\012sub rcommaaccent by rcommaaccent.isol;\012sub s by s.isol;\012sub sacute by sacute.isol;\012sub scaron by scaron.isol;\012sub scedilla by scedilla.isol;\012sub scommaaccent by scommaaccent.isol;\012sub t by t.isol;\012sub tbar by tbar.isol;\012sub tcaron by tcaron.isol;\012sub tcedilla by tcedilla.isol;\012sub tcommaaccent by tcommaaccent.isol;\012sub u by u.isol;\012sub uacute by uacute.isol;\012sub ucircumflex by ucircumflex.isol;\012sub udieresis by udieresis.isol;\012sub ugrave by ugrave.isol;\012sub uhungarumlaut by uhungarumlaut.isol;\012sub umacron by umacron.isol;\012sub uogonek by uogonek.isol;\012sub uring by uring.isol;\012sub v by v.isol;\012sub w by w.isol;\012sub wacute by wacute.isol;\012sub wcircumflex by wcircumflex.isol;\012sub wdieresis by wdieresis.isol;\012sub wgrave by wgrave.isol;\012sub x by x.isol;\012sub y by y.isol;\012sub yacute by yacute.isol;\012sub ycircumflex by ycircumflex.isol;\012sub ydieresis by ydieresis.isol;\012sub ygrave by ygrave.isol;\012sub z by z.isol;\012sub zcaron by zcaron.isol;\012sub eth by eth.isol;\012sub idotaccent by idotaccent.isol;\012sub eng by eng.isol;\012sub oe by oe.isol;\012sub thorn by thorn.isol;\012sub germandbls by germandbls.isol;\012";
+code = "sub A by A.isol;\012sub Aacute by Aacute.isol;\012sub Abreve by Abreve.isol;\012sub Acircumflex by Acircumflex.isol;\012sub Adieresis by Adieresis.isol;\012sub Agrave by Agrave.isol;\012sub Amacron by Amacron.isol;\012sub Aogonek by Aogonek.isol;\012sub Aring by Aring.isol;\012sub Atilde by Atilde.isol;\012sub AE by AE.isol;\012sub B by B.isol;\012sub C by C.isol;\012sub Cacute by Cacute.isol;\012sub Ccaron by Ccaron.isol;\012sub Ccedilla by Ccedilla.isol;\012sub Cdotaccent by Cdotaccent.isol;\012sub D by D.isol;\012sub Dcaron by Dcaron.isol;\012sub Dcroat by Dcroat.isol;\012sub E by E.isol;\012sub Eacute by Eacute.isol;\012sub Ecaron by Ecaron.isol;\012sub Ecircumflex by Ecircumflex.isol;\012sub Edieresis by Edieresis.isol;\012sub Edotaccent by Edotaccent.isol;\012sub Egrave by Egrave.isol;\012sub Emacron by Emacron.isol;\012sub Eogonek by Eogonek.isol;\012sub F by F.isol;\012sub G by G.isol;\012sub Gbreve by Gbreve.isol;\012sub Gcommaaccent by Gcommaaccent.isol;\012sub Gdotaccent by Gdotaccent.isol;\012sub H by H.isol;\012sub Hbar by Hbar.isol;\012sub I by I.isol;\012sub Iacute by Iacute.isol;\012sub Icircumflex by Icircumflex.isol;\012sub Idieresis by Idieresis.isol;\012sub Idotaccent by Idotaccent.isol;\012sub Igrave by Igrave.isol;\012sub Imacron by Imacron.isol;\012sub Iogonek by Iogonek.isol;\012sub J by J.isol;\012sub K by K.isol;\012sub Kcommaaccent by Kcommaaccent.isol;\012sub L by L.isol;\012sub Lacute by Lacute.isol;\012sub Lcaron by Lcaron.isol;\012sub Lcommaaccent by Lcommaaccent.isol;\012sub Lslash by Lslash.isol;\012sub M by M.isol;\012sub N by N.isol;\012sub Nacute by Nacute.isol;\012sub Ncaron by Ncaron.isol;\012sub Ncommaaccent by Ncommaaccent.isol;\012sub Ntilde by Ntilde.isol;\012sub O by O.isol;\012sub Oacute by Oacute.isol;\012sub Ocircumflex by Ocircumflex.isol;\012sub Odieresis by Odieresis.isol;\012sub Ograve by Ograve.isol;\012sub Ohungarumlaut by Ohungarumlaut.isol;\012sub Omacron by Omacron.isol;\012sub Oslash by Oslash.isol;\012sub Otilde by Otilde.isol;\012sub P by P.isol;\012sub Q by Q.isol;\012sub R by R.isol;\012sub Racute by Racute.isol;\012sub Rcaron by Rcaron.isol;\012sub Rcommaaccent by Rcommaaccent.isol;\012sub S by S.isol;\012sub Sacute by Sacute.isol;\012sub Scaron by Scaron.isol;\012sub Scedilla by Scedilla.isol;\012sub Scommaaccent by Scommaaccent.isol;\012sub T by T.isol;\012sub Tbar by Tbar.isol;\012sub Tcaron by Tcaron.isol;\012sub Tcedilla by Tcedilla.isol;\012sub U by U.isol;\012sub Uacute by Uacute.isol;\012sub Ucircumflex by Ucircumflex.isol;\012sub Udieresis by Udieresis.isol;\012sub Ugrave by Ugrave.isol;\012sub Uhungarumlaut by Uhungarumlaut.isol;\012sub Umacron by Umacron.isol;\012sub Uogonek by Uogonek.isol;\012sub Uring by Uring.isol;\012sub V by V.isol;\012sub W by W.isol;\012sub Wacute by Wacute.isol;\012sub Wcircumflex by Wcircumflex.isol;\012sub Wdieresis by Wdieresis.isol;\012sub Wgrave by Wgrave.isol;\012sub X by X.isol;\012sub Y by Y.isol;\012sub Yacute by Yacute.isol;\012sub Ycircumflex by Ycircumflex.isol;\012sub Ydieresis by Ydieresis.isol;\012sub Ygrave by Ygrave.isol;\012sub Z by Z.isol;\012sub Zacute by Zacute.isol;\012sub Zcaron by Zcaron.isol;\012sub Zdotaccent by Zdotaccent.isol;\012sub a by a.isol;\012sub aacute by aacute.isol;\012sub abreve by abreve.isol;\012sub acircumflex by acircumflex.isol;\012sub adieresis by adieresis.isol;\012sub agrave by agrave.isol;\012sub amacron by amacron.isol;\012sub aogonek by aogonek.isol;\012sub aring by aring.isol;\012sub atilde by atilde.isol;\012sub ae by ae.isol;\012sub b by b.isol;\012sub c by c.isol;\012sub cacute by cacute.isol;\012sub ccaron by ccaron.isol;\012sub ccedilla by ccedilla.isol;\012sub cdotaccent by cdotaccent.isol;\012sub d by d.isol;\012sub dcaron by dcaron.isol;\012sub dcroat by dcroat.isol;\012sub e by e.isol;\012sub eacute by eacute.isol;\012sub ecaron by ecaron.isol;\012sub ecircumflex by ecircumflex.isol;\012sub edieresis by edieresis.isol;\012sub edotaccent by edotaccent.isol;\012sub egrave by egrave.isol;\012sub emacron by emacron.isol;\012sub eogonek by eogonek.isol;\012sub f by f.isol;\012sub g by g.isol;\012sub gbreve by gbreve.isol;\012sub gcommaaccent by gcommaaccent.isol;\012sub gdotaccent by gdotaccent.isol;\012sub h by h.isol;\012sub hbar by hbar.isol;\012sub i by i.isol;\012sub idotless by idotless.isol;\012sub iacute by iacute.isol;\012sub icircumflex by icircumflex.isol;\012sub idieresis by idieresis.isol;\012sub igrave by igrave.isol;\012sub imacron by imacron.isol;\012sub iogonek by iogonek.isol;\012sub j by j.isol;\012sub k by k.isol;\012sub kcommaaccent by kcommaaccent.isol;\012sub l by l.isol;\012sub lacute by lacute.isol;\012sub lcaron by lcaron.isol;\012sub lcommaaccent by lcommaaccent.isol;\012sub lslash by lslash.isol;\012sub m by m.isol;\012sub n by n.isol;\012sub nacute by nacute.isol;\012sub ncaron by ncaron.isol;\012sub ncommaaccent by ncommaaccent.isol;\012sub ntilde by ntilde.isol;\012sub o by o.isol;\012sub oacute by oacute.isol;\012sub ocircumflex by ocircumflex.isol;\012sub odieresis by odieresis.isol;\012sub ograve by ograve.isol;\012sub ohungarumlaut by ohungarumlaut.isol;\012sub omacron by omacron.isol;\012sub oslash by oslash.isol;\012sub otilde by otilde.isol;\012sub p by p.isol;\012sub q by q.isol;\012sub r by r.isol;\012sub racute by racute.isol;\012sub rcaron by rcaron.isol;\012sub rcommaaccent by rcommaaccent.isol;\012sub s by s.isol;\012sub sacute by sacute.isol;\012sub scaron by scaron.isol;\012sub scedilla by scedilla.isol;\012sub scommaaccent by scommaaccent.isol;\012sub t by t.isol;\012sub tbar by tbar.isol;\012sub tcaron by tcaron.isol;\012sub tcedilla by tcedilla.isol;\012sub tcommaaccent by tcommaaccent.isol;\012sub u by u.isol;\012sub uacute by uacute.isol;\012sub ucircumflex by ucircumflex.isol;\012sub udieresis by udieresis.isol;\012sub ugrave by ugrave.isol;\012sub uhungarumlaut by uhungarumlaut.isol;\012sub umacron by umacron.isol;\012sub uogonek by uogonek.isol;\012sub uring by uring.isol;\012sub v by v.isol;\012sub w by w.isol;\012sub wacute by wacute.isol;\012sub wcircumflex by wcircumflex.isol;\012sub wdieresis by wdieresis.isol;\012sub wgrave by wgrave.isol;\012sub x by x.isol;\012sub y by y.isol;\012sub yacute by yacute.isol;\012sub ycircumflex by ycircumflex.isol;\012sub ydieresis by ydieresis.isol;\012sub ygrave by ygrave.isol;\012sub z by z.isol;\012sub zacute by zacute.isol;\012sub zcaron by zcaron.isol;\012sub zdotaccent by zdotaccent.isol;\012sub Eng by Eng.isol;\012sub OE by OE.isol;\012sub Thorn by Thorn.isol;\012sub eth by eth.isol;\012sub idotaccent by idotaccent.isol;\012sub eng by eng.isol;\012sub oe by oe.isol;\012sub thorn by thorn.isol;\012sub germandbls by germandbls.isol;\012";
 name = isol;
 },
 {
 automatic = 1;
-code = "sub A by A.init;\012sub B by B.init;\012sub C by C.init;\012sub D by D.init;\012sub E by E.init;\012sub F by F.init;\012sub G by G.init;\012sub H by H.init;\012sub I by I.init;\012sub J by J.init;\012sub K by K.init;\012sub L by L.init;\012sub M by M.init;\012sub N by N.init;\012sub O by O.init;\012sub P by P.init;\012sub Q by Q.init;\012sub R by R.init;\012sub S by S.init;\012sub T by T.init;\012sub U by U.init;\012sub V by V.init;\012sub W by W.init;\012sub X by X.init;\012sub Y by Y.init;\012sub Z by Z.init;\012sub a by a.init;\012sub aacute by aacute.init;\012sub abreve by abreve.init;\012sub acircumflex by acircumflex.init;\012sub adieresis by adieresis.init;\012sub agrave by agrave.init;\012sub amacron by amacron.init;\012sub aogonek by aogonek.init;\012sub aring by aring.init;\012sub atilde by atilde.init;\012sub ae by ae.init;\012sub b by b.init;\012sub c by c.init;\012sub cacute by cacute.init;\012sub ccaron by ccaron.init;\012sub ccedilla by ccedilla.init;\012sub cdotaccent by cdotaccent.init;\012sub d by d.init;\012sub dcaron by dcaron.init;\012sub dcroat by dcroat.init;\012sub e by e.init;\012sub eacute by eacute.init;\012sub ecaron by ecaron.init;\012sub ecircumflex by ecircumflex.init;\012sub edieresis by edieresis.init;\012sub edotaccent by edotaccent.init;\012sub egrave by egrave.init;\012sub emacron by emacron.init;\012sub eogonek by eogonek.init;\012sub f by f.init;\012sub g by g.init;\012sub gbreve by gbreve.init;\012sub gcommaaccent by gcommaaccent.init;\012sub gdotaccent by gdotaccent.init;\012sub h by h.init;\012sub hbar by hbar.init;\012sub i by i.init;\012sub idotless by idotless.init;\012sub iacute by iacute.init;\012sub icircumflex by icircumflex.init;\012sub idieresis by idieresis.init;\012sub igrave by igrave.init;\012sub imacron by imacron.init;\012sub iogonek by iogonek.init;\012sub j by j.init;\012sub k by k.init;\012sub kcommaaccent by kcommaaccent.init;\012sub l by l.init;\012sub lacute by lacute.init;\012sub lcaron by lcaron.init;\012sub lcommaaccent by lcommaaccent.init;\012sub lslash by lslash.init;\012sub m by m.init;\012sub n by n.init;\012sub nacute by nacute.init;\012sub ncaron by ncaron.init;\012sub ncommaaccent by ncommaaccent.init;\012sub ntilde by ntilde.init;\012sub o by o.init;\012sub oacute by oacute.init;\012sub ocircumflex by ocircumflex.init;\012sub odieresis by odieresis.init;\012sub ograve by ograve.init;\012sub ohungarumlaut by ohungarumlaut.init;\012sub omacron by omacron.init;\012sub oslash by oslash.init;\012sub otilde by otilde.init;\012sub p by p.init;\012sub q by q.init;\012sub r by r.init;\012sub racute by racute.init;\012sub rcaron by rcaron.init;\012sub rcommaaccent by rcommaaccent.init;\012sub s by s.init;\012sub sacute by sacute.init;\012sub scaron by scaron.init;\012sub scedilla by scedilla.init;\012sub scommaaccent by scommaaccent.init;\012sub t by t.init;\012sub tbar by tbar.init;\012sub tcaron by tcaron.init;\012sub tcedilla by tcedilla.init;\012sub tcommaaccent by tcommaaccent.init;\012sub u by u.init;\012sub uacute by uacute.init;\012sub ucircumflex by ucircumflex.init;\012sub udieresis by udieresis.init;\012sub ugrave by ugrave.init;\012sub uhungarumlaut by uhungarumlaut.init;\012sub umacron by umacron.init;\012sub uogonek by uogonek.init;\012sub uring by uring.init;\012sub v by v.init;\012sub w by w.init;\012sub wacute by wacute.init;\012sub wcircumflex by wcircumflex.init;\012sub wdieresis by wdieresis.init;\012sub wgrave by wgrave.init;\012sub x by x.init;\012sub y by y.init;\012sub yacute by yacute.init;\012sub ycircumflex by ycircumflex.init;\012sub ydieresis by ydieresis.init;\012sub ygrave by ygrave.init;\012sub z by z.init;\012sub zcaron by zcaron.init;\012sub eth by eth.init;\012sub idotaccent by idotaccent.init;\012sub eng by eng.init;\012sub oe by oe.init;\012sub thorn by thorn.init;\012sub germandbls by germandbls.init;\012";
+code = "sub A by A.init;\012sub Aacute by Aacute.init;\012sub Abreve by Abreve.init;\012sub Acircumflex by Acircumflex.init;\012sub Adieresis by Adieresis.init;\012sub Agrave by Agrave.init;\012sub Amacron by Amacron.init;\012sub Aogonek by Aogonek.init;\012sub Aring by Aring.init;\012sub Atilde by Atilde.init;\012sub AE by AE.init;\012sub B by B.init;\012sub C by C.init;\012sub Cacute by Cacute.init;\012sub Ccaron by Ccaron.init;\012sub Ccedilla by Ccedilla.init;\012sub Cdotaccent by Cdotaccent.init;\012sub D by D.init;\012sub Dcaron by Dcaron.init;\012sub Dcroat by Dcroat.init;\012sub E by E.init;\012sub Eacute by Eacute.init;\012sub Ecaron by Ecaron.init;\012sub Ecircumflex by Ecircumflex.init;\012sub Edieresis by Edieresis.init;\012sub Edotaccent by Edotaccent.init;\012sub Egrave by Egrave.init;\012sub Emacron by Emacron.init;\012sub Eogonek by Eogonek.init;\012sub F by F.init;\012sub G by G.init;\012sub Gbreve by Gbreve.init;\012sub Gcommaaccent by Gcommaaccent.init;\012sub Gdotaccent by Gdotaccent.init;\012sub H by H.init;\012sub Hbar by Hbar.init;\012sub I by I.init;\012sub Iacute by Iacute.init;\012sub Icircumflex by Icircumflex.init;\012sub Idieresis by Idieresis.init;\012sub Idotaccent by Idotaccent.init;\012sub Igrave by Igrave.init;\012sub Imacron by Imacron.init;\012sub Iogonek by Iogonek.init;\012sub J by J.init;\012sub K by K.init;\012sub Kcommaaccent by Kcommaaccent.init;\012sub L by L.init;\012sub Lacute by Lacute.init;\012sub Lcaron by Lcaron.init;\012sub Lcommaaccent by Lcommaaccent.init;\012sub Lslash by Lslash.init;\012sub M by M.init;\012sub N by N.init;\012sub Nacute by Nacute.init;\012sub Ncaron by Ncaron.init;\012sub Ncommaaccent by Ncommaaccent.init;\012sub Ntilde by Ntilde.init;\012sub O by O.init;\012sub Oacute by Oacute.init;\012sub Ocircumflex by Ocircumflex.init;\012sub Odieresis by Odieresis.init;\012sub Ograve by Ograve.init;\012sub Ohungarumlaut by Ohungarumlaut.init;\012sub Omacron by Omacron.init;\012sub Oslash by Oslash.init;\012sub Otilde by Otilde.init;\012sub P by P.init;\012sub Q by Q.init;\012sub R by R.init;\012sub Racute by Racute.init;\012sub Rcaron by Rcaron.init;\012sub Rcommaaccent by Rcommaaccent.init;\012sub S by S.init;\012sub Sacute by Sacute.init;\012sub Scaron by Scaron.init;\012sub Scedilla by Scedilla.init;\012sub Scommaaccent by Scommaaccent.init;\012sub T by T.init;\012sub Tbar by Tbar.init;\012sub Tcaron by Tcaron.init;\012sub Tcedilla by Tcedilla.init;\012sub U by U.init;\012sub Uacute by Uacute.init;\012sub Ucircumflex by Ucircumflex.init;\012sub Udieresis by Udieresis.init;\012sub Ugrave by Ugrave.init;\012sub Uhungarumlaut by Uhungarumlaut.init;\012sub Umacron by Umacron.init;\012sub Uogonek by Uogonek.init;\012sub Uring by Uring.init;\012sub V by V.init;\012sub W by W.init;\012sub Wacute by Wacute.init;\012sub Wcircumflex by Wcircumflex.init;\012sub Wdieresis by Wdieresis.init;\012sub Wgrave by Wgrave.init;\012sub X by X.init;\012sub Y by Y.init;\012sub Yacute by Yacute.init;\012sub Ycircumflex by Ycircumflex.init;\012sub Ydieresis by Ydieresis.init;\012sub Ygrave by Ygrave.init;\012sub Z by Z.init;\012sub Zacute by Zacute.init;\012sub Zcaron by Zcaron.init;\012sub Zdotaccent by Zdotaccent.init;\012sub a by a.init;\012sub aacute by aacute.init;\012sub abreve by abreve.init;\012sub acircumflex by acircumflex.init;\012sub adieresis by adieresis.init;\012sub agrave by agrave.init;\012sub amacron by amacron.init;\012sub aogonek by aogonek.init;\012sub aring by aring.init;\012sub atilde by atilde.init;\012sub ae by ae.init;\012sub b by b.init;\012sub c by c.init;\012sub cacute by cacute.init;\012sub ccaron by ccaron.init;\012sub ccedilla by ccedilla.init;\012sub cdotaccent by cdotaccent.init;\012sub d by d.init;\012sub dcaron by dcaron.init;\012sub dcroat by dcroat.init;\012sub e by e.init;\012sub eacute by eacute.init;\012sub ecaron by ecaron.init;\012sub ecircumflex by ecircumflex.init;\012sub edieresis by edieresis.init;\012sub edotaccent by edotaccent.init;\012sub egrave by egrave.init;\012sub emacron by emacron.init;\012sub eogonek by eogonek.init;\012sub f by f.init;\012sub g by g.init;\012sub gbreve by gbreve.init;\012sub gcommaaccent by gcommaaccent.init;\012sub gdotaccent by gdotaccent.init;\012sub h by h.init;\012sub hbar by hbar.init;\012sub i by i.init;\012sub idotless by idotless.init;\012sub iacute by iacute.init;\012sub icircumflex by icircumflex.init;\012sub idieresis by idieresis.init;\012sub igrave by igrave.init;\012sub imacron by imacron.init;\012sub iogonek by iogonek.init;\012sub j by j.init;\012sub k by k.init;\012sub kcommaaccent by kcommaaccent.init;\012sub l by l.init;\012sub lacute by lacute.init;\012sub lcaron by lcaron.init;\012sub lcommaaccent by lcommaaccent.init;\012sub lslash by lslash.init;\012sub m by m.init;\012sub n by n.init;\012sub nacute by nacute.init;\012sub ncaron by ncaron.init;\012sub ncommaaccent by ncommaaccent.init;\012sub ntilde by ntilde.init;\012sub o by o.init;\012sub oacute by oacute.init;\012sub ocircumflex by ocircumflex.init;\012sub odieresis by odieresis.init;\012sub ograve by ograve.init;\012sub ohungarumlaut by ohungarumlaut.init;\012sub omacron by omacron.init;\012sub oslash by oslash.init;\012sub otilde by otilde.init;\012sub p by p.init;\012sub q by q.init;\012sub r by r.init;\012sub racute by racute.init;\012sub rcaron by rcaron.init;\012sub rcommaaccent by rcommaaccent.init;\012sub s by s.init;\012sub sacute by sacute.init;\012sub scaron by scaron.init;\012sub scedilla by scedilla.init;\012sub scommaaccent by scommaaccent.init;\012sub t by t.init;\012sub tbar by tbar.init;\012sub tcaron by tcaron.init;\012sub tcedilla by tcedilla.init;\012sub tcommaaccent by tcommaaccent.init;\012sub u by u.init;\012sub uacute by uacute.init;\012sub ucircumflex by ucircumflex.init;\012sub udieresis by udieresis.init;\012sub ugrave by ugrave.init;\012sub uhungarumlaut by uhungarumlaut.init;\012sub umacron by umacron.init;\012sub uogonek by uogonek.init;\012sub uring by uring.init;\012sub v by v.init;\012sub w by w.init;\012sub wacute by wacute.init;\012sub wcircumflex by wcircumflex.init;\012sub wdieresis by wdieresis.init;\012sub wgrave by wgrave.init;\012sub x by x.init;\012sub y by y.init;\012sub yacute by yacute.init;\012sub ycircumflex by ycircumflex.init;\012sub ydieresis by ydieresis.init;\012sub ygrave by ygrave.init;\012sub z by z.init;\012sub zacute by zacute.init;\012sub zcaron by zcaron.init;\012sub zdotaccent by zdotaccent.init;\012sub Eng by Eng.init;\012sub OE by OE.init;\012sub Thorn by Thorn.init;\012sub eth by eth.init;\012sub idotaccent by idotaccent.init;\012sub eng by eng.init;\012sub oe by oe.init;\012sub thorn by thorn.init;\012sub germandbls by germandbls.init;\012";
 name = init;
 },
 {
 automatic = 1;
-code = "sub A by A.fina;\012sub B by B.fina;\012sub C by C.fina;\012sub D by D.fina;\012sub E by E.fina;\012sub F by F.fina;\012sub G by G.fina;\012sub H by H.fina;\012sub I by I.fina;\012sub J by J.fina;\012sub K by K.fina;\012sub L by L.fina;\012sub M by M.fina;\012sub N by N.fina;\012sub O by O.fina;\012sub P by P.fina;\012sub Q by Q.fina;\012sub R by R.fina;\012sub S by S.fina;\012sub T by T.fina;\012sub U by U.fina;\012sub V by V.fina;\012sub W by W.fina;\012sub X by X.fina;\012sub Y by Y.fina;\012sub Z by Z.fina;\012sub a by a.fina;\012sub aacute by aacute.fina;\012sub abreve by abreve.fina;\012sub acircumflex by acircumflex.fina;\012sub adieresis by adieresis.fina;\012sub agrave by agrave.fina;\012sub amacron by amacron.fina;\012sub aogonek by aogonek.fina;\012sub aring by aring.fina;\012sub atilde by atilde.fina;\012sub ae by ae.fina;\012sub b by b.fina;\012sub c by c.fina;\012sub cacute by cacute.fina;\012sub ccaron by ccaron.fina;\012sub ccedilla by ccedilla.fina;\012sub cdotaccent by cdotaccent.fina;\012sub d by d.fina;\012sub dcaron by dcaron.fina;\012sub dcroat by dcroat.fina;\012sub e by e.fina;\012sub eacute by eacute.fina;\012sub ecaron by ecaron.fina;\012sub ecircumflex by ecircumflex.fina;\012sub edieresis by edieresis.fina;\012sub edotaccent by edotaccent.fina;\012sub egrave by egrave.fina;\012sub emacron by emacron.fina;\012sub eogonek by eogonek.fina;\012sub f by f.fina;\012sub g by g.fina;\012sub gbreve by gbreve.fina;\012sub gcommaaccent by gcommaaccent.fina;\012sub gdotaccent by gdotaccent.fina;\012sub h by h.fina;\012sub hbar by hbar.fina;\012sub i by i.fina;\012sub idotless by idotless.fina;\012sub iacute by iacute.fina;\012sub icircumflex by icircumflex.fina;\012sub idieresis by idieresis.fina;\012sub igrave by igrave.fina;\012sub imacron by imacron.fina;\012sub iogonek by iogonek.fina;\012sub j by j.fina;\012sub k by k.fina;\012sub kcommaaccent by kcommaaccent.fina;\012sub l by l.fina;\012sub lacute by lacute.fina;\012sub lcaron by lcaron.fina;\012sub lcommaaccent by lcommaaccent.fina;\012sub lslash by lslash.fina;\012sub m by m.fina;\012sub n by n.fina;\012sub nacute by nacute.fina;\012sub ncaron by ncaron.fina;\012sub ncommaaccent by ncommaaccent.fina;\012sub ntilde by ntilde.fina;\012sub o by o.fina;\012sub oacute by oacute.fina;\012sub ocircumflex by ocircumflex.fina;\012sub odieresis by odieresis.fina;\012sub ograve by ograve.fina;\012sub ohungarumlaut by ohungarumlaut.fina;\012sub omacron by omacron.fina;\012sub oslash by oslash.fina;\012sub otilde by otilde.fina;\012sub p by p.fina;\012sub q by q.fina;\012sub r by r.fina;\012sub racute by racute.fina;\012sub rcaron by rcaron.fina;\012sub rcommaaccent by rcommaaccent.fina;\012sub s by s.fina;\012sub sacute by sacute.fina;\012sub scaron by scaron.fina;\012sub scedilla by scedilla.fina;\012sub scommaaccent by scommaaccent.fina;\012sub t by t.fina;\012sub tbar by tbar.fina;\012sub tcaron by tcaron.fina;\012sub tcedilla by tcedilla.fina;\012sub tcommaaccent by tcommaaccent.fina;\012sub u by u.fina;\012sub uacute by uacute.fina;\012sub ucircumflex by ucircumflex.fina;\012sub udieresis by udieresis.fina;\012sub ugrave by ugrave.fina;\012sub uhungarumlaut by uhungarumlaut.fina;\012sub umacron by umacron.fina;\012sub uogonek by uogonek.fina;\012sub uring by uring.fina;\012sub v by v.fina;\012sub w by w.fina;\012sub wacute by wacute.fina;\012sub wcircumflex by wcircumflex.fina;\012sub wdieresis by wdieresis.fina;\012sub wgrave by wgrave.fina;\012sub x by x.fina;\012sub y by y.fina;\012sub yacute by yacute.fina;\012sub ycircumflex by ycircumflex.fina;\012sub ydieresis by ydieresis.fina;\012sub ygrave by ygrave.fina;\012sub z by z.fina;\012sub zcaron by zcaron.fina;\012sub eth by eth.fina;\012sub idotaccent by idotaccent.fina;\012sub eng by eng.fina;\012sub oe by oe.fina;\012sub thorn by thorn.fina;\012sub germandbls by germandbls.fina;\012";
+code = "sub A by A.fina;\012sub Aacute by Aacute.fina;\012sub Abreve by Abreve.fina;\012sub Acircumflex by Acircumflex.fina;\012sub Adieresis by Adieresis.fina;\012sub Agrave by Agrave.fina;\012sub Amacron by Amacron.fina;\012sub Aogonek by Aogonek.fina;\012sub Aring by Aring.fina;\012sub Atilde by Atilde.fina;\012sub AE by AE.fina;\012sub B by B.fina;\012sub C by C.fina;\012sub Cacute by Cacute.fina;\012sub Ccaron by Ccaron.fina;\012sub Ccedilla by Ccedilla.fina;\012sub Cdotaccent by Cdotaccent.fina;\012sub D by D.fina;\012sub Dcaron by Dcaron.fina;\012sub Dcroat by Dcroat.fina;\012sub E by E.fina;\012sub Eacute by Eacute.fina;\012sub Ecaron by Ecaron.fina;\012sub Ecircumflex by Ecircumflex.fina;\012sub Edieresis by Edieresis.fina;\012sub Edotaccent by Edotaccent.fina;\012sub Egrave by Egrave.fina;\012sub Emacron by Emacron.fina;\012sub Eogonek by Eogonek.fina;\012sub F by F.fina;\012sub G by G.fina;\012sub Gbreve by Gbreve.fina;\012sub Gcommaaccent by Gcommaaccent.fina;\012sub Gdotaccent by Gdotaccent.fina;\012sub H by H.fina;\012sub Hbar by Hbar.fina;\012sub I by I.fina;\012sub Iacute by Iacute.fina;\012sub Icircumflex by Icircumflex.fina;\012sub Idieresis by Idieresis.fina;\012sub Idotaccent by Idotaccent.fina;\012sub Igrave by Igrave.fina;\012sub Imacron by Imacron.fina;\012sub Iogonek by Iogonek.fina;\012sub J by J.fina;\012sub K by K.fina;\012sub Kcommaaccent by Kcommaaccent.fina;\012sub L by L.fina;\012sub Lacute by Lacute.fina;\012sub Lcaron by Lcaron.fina;\012sub Lcommaaccent by Lcommaaccent.fina;\012sub Lslash by Lslash.fina;\012sub M by M.fina;\012sub N by N.fina;\012sub Nacute by Nacute.fina;\012sub Ncaron by Ncaron.fina;\012sub Ncommaaccent by Ncommaaccent.fina;\012sub Ntilde by Ntilde.fina;\012sub O by O.fina;\012sub Oacute by Oacute.fina;\012sub Ocircumflex by Ocircumflex.fina;\012sub Odieresis by Odieresis.fina;\012sub Ograve by Ograve.fina;\012sub Ohungarumlaut by Ohungarumlaut.fina;\012sub Omacron by Omacron.fina;\012sub Oslash by Oslash.fina;\012sub Otilde by Otilde.fina;\012sub P by P.fina;\012sub Q by Q.fina;\012sub R by R.fina;\012sub Racute by Racute.fina;\012sub Rcaron by Rcaron.fina;\012sub Rcommaaccent by Rcommaaccent.fina;\012sub S by S.fina;\012sub Sacute by Sacute.fina;\012sub Scaron by Scaron.fina;\012sub Scedilla by Scedilla.fina;\012sub Scommaaccent by Scommaaccent.fina;\012sub T by T.fina;\012sub Tbar by Tbar.fina;\012sub Tcaron by Tcaron.fina;\012sub Tcedilla by Tcedilla.fina;\012sub U by U.fina;\012sub Uacute by Uacute.fina;\012sub Ucircumflex by Ucircumflex.fina;\012sub Udieresis by Udieresis.fina;\012sub Ugrave by Ugrave.fina;\012sub Uhungarumlaut by Uhungarumlaut.fina;\012sub Umacron by Umacron.fina;\012sub Uogonek by Uogonek.fina;\012sub Uring by Uring.fina;\012sub V by V.fina;\012sub W by W.fina;\012sub Wacute by Wacute.fina;\012sub Wcircumflex by Wcircumflex.fina;\012sub Wdieresis by Wdieresis.fina;\012sub Wgrave by Wgrave.fina;\012sub X by X.fina;\012sub Y by Y.fina;\012sub Yacute by Yacute.fina;\012sub Ycircumflex by Ycircumflex.fina;\012sub Ydieresis by Ydieresis.fina;\012sub Ygrave by Ygrave.fina;\012sub Z by Z.fina;\012sub Zacute by Zacute.fina;\012sub Zcaron by Zcaron.fina;\012sub Zdotaccent by Zdotaccent.fina;\012sub a by a.fina;\012sub aacute by aacute.fina;\012sub abreve by abreve.fina;\012sub acircumflex by acircumflex.fina;\012sub adieresis by adieresis.fina;\012sub agrave by agrave.fina;\012sub amacron by amacron.fina;\012sub aogonek by aogonek.fina;\012sub aring by aring.fina;\012sub atilde by atilde.fina;\012sub ae by ae.fina;\012sub b by b.fina;\012sub c by c.fina;\012sub cacute by cacute.fina;\012sub ccaron by ccaron.fina;\012sub ccedilla by ccedilla.fina;\012sub cdotaccent by cdotaccent.fina;\012sub d by d.fina;\012sub dcaron by dcaron.fina;\012sub dcroat by dcroat.fina;\012sub e by e.fina;\012sub eacute by eacute.fina;\012sub ecaron by ecaron.fina;\012sub ecircumflex by ecircumflex.fina;\012sub edieresis by edieresis.fina;\012sub edotaccent by edotaccent.fina;\012sub egrave by egrave.fina;\012sub emacron by emacron.fina;\012sub eogonek by eogonek.fina;\012sub f by f.fina;\012sub g by g.fina;\012sub gbreve by gbreve.fina;\012sub gcommaaccent by gcommaaccent.fina;\012sub gdotaccent by gdotaccent.fina;\012sub h by h.fina;\012sub hbar by hbar.fina;\012sub i by i.fina;\012sub idotless by idotless.fina;\012sub iacute by iacute.fina;\012sub icircumflex by icircumflex.fina;\012sub idieresis by idieresis.fina;\012sub igrave by igrave.fina;\012sub imacron by imacron.fina;\012sub iogonek by iogonek.fina;\012sub j by j.fina;\012sub k by k.fina;\012sub kcommaaccent by kcommaaccent.fina;\012sub l by l.fina;\012sub lacute by lacute.fina;\012sub lcaron by lcaron.fina;\012sub lcommaaccent by lcommaaccent.fina;\012sub lslash by lslash.fina;\012sub m by m.fina;\012sub n by n.fina;\012sub nacute by nacute.fina;\012sub ncaron by ncaron.fina;\012sub ncommaaccent by ncommaaccent.fina;\012sub ntilde by ntilde.fina;\012sub o by o.fina;\012sub oacute by oacute.fina;\012sub ocircumflex by ocircumflex.fina;\012sub odieresis by odieresis.fina;\012sub ograve by ograve.fina;\012sub ohungarumlaut by ohungarumlaut.fina;\012sub omacron by omacron.fina;\012sub oslash by oslash.fina;\012sub otilde by otilde.fina;\012sub p by p.fina;\012sub q by q.fina;\012sub r by r.fina;\012sub racute by racute.fina;\012sub rcaron by rcaron.fina;\012sub rcommaaccent by rcommaaccent.fina;\012sub s by s.fina;\012sub sacute by sacute.fina;\012sub scaron by scaron.fina;\012sub scedilla by scedilla.fina;\012sub scommaaccent by scommaaccent.fina;\012sub t by t.fina;\012sub tbar by tbar.fina;\012sub tcaron by tcaron.fina;\012sub tcedilla by tcedilla.fina;\012sub tcommaaccent by tcommaaccent.fina;\012sub u by u.fina;\012sub uacute by uacute.fina;\012sub ucircumflex by ucircumflex.fina;\012sub udieresis by udieresis.fina;\012sub ugrave by ugrave.fina;\012sub uhungarumlaut by uhungarumlaut.fina;\012sub umacron by umacron.fina;\012sub uogonek by uogonek.fina;\012sub uring by uring.fina;\012sub v by v.fina;\012sub w by w.fina;\012sub wacute by wacute.fina;\012sub wcircumflex by wcircumflex.fina;\012sub wdieresis by wdieresis.fina;\012sub wgrave by wgrave.fina;\012sub x by x.fina;\012sub y by y.fina;\012sub yacute by yacute.fina;\012sub ycircumflex by ycircumflex.fina;\012sub ydieresis by ydieresis.fina;\012sub ygrave by ygrave.fina;\012sub z by z.fina;\012sub zacute by zacute.fina;\012sub zcaron by zcaron.fina;\012sub zdotaccent by zdotaccent.fina;\012sub Eng by Eng.fina;\012sub OE by OE.fina;\012sub Thorn by Thorn.fina;\012sub eth by eth.fina;\012sub idotaccent by idotaccent.fina;\012sub eng by eng.fina;\012sub oe by oe.fina;\012sub thorn by thorn.fina;\012sub germandbls by germandbls.fina;\012";
 name = fina;
 },
 {
@@ -1912,7 +1755,7 @@ unicode = 0041;
 {
 color = 4;
 glyphname = A.fina;
-lastChange = "2016-10-16 14:05:04 +0000";
+lastChange = "2016-10-16 17:58:26 +0000";
 layers = (
 {
 anchors = (
@@ -1931,7 +1774,7 @@ name = Alaska;
 },
 {
 name = ndolinit;
-transform = "{1, 0, 0, 1, 328, 0}";
+transform = "{1, 0, 0, 1, 326, 0}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -1955,7 +1798,7 @@ rightMetricsKey = "=n.fina";
 {
 color = 4;
 glyphname = A.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:36 +0000";
 layers = (
 {
 anchors = (
@@ -1967,7 +1810,7 @@ position = "{896, 800}";
 components = (
 {
 name = ndol;
-transform = "{1, 0, 0, 1, 326, 0}";
+transform = "{1, 0, 0, 1, 328, 0}";
 },
 {
 name = hlaskagorna;
@@ -1989,7 +1832,7 @@ nodes = (
 );
 }
 );
-width = 983;
+width = 985;
 }
 );
 leftMetricsKey = "=A";
@@ -2082,7 +1925,7 @@ width = 1000;
 {
 color = 4;
 glyphname = Aacute.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:37 +0000";
 layers = (
 {
 components = (
@@ -2095,7 +1938,7 @@ transform = "{1, 0, 0, 1, 597, 300}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
-width = 983;
+width = 985;
 }
 );
 },
@@ -2163,7 +2006,7 @@ width = 1000;
 {
 color = 4;
 glyphname = Abreve.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:37 +0000";
 layers = (
 {
 components = (
@@ -2176,7 +2019,7 @@ transform = "{1, 0, 0, 1, 567, 300}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
-width = 983;
+width = 985;
 }
 );
 },
@@ -2244,7 +2087,7 @@ width = 1000;
 {
 color = 4;
 glyphname = Acircumflex.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:37 +0000";
 layers = (
 {
 components = (
@@ -2257,7 +2100,7 @@ transform = "{1, 0, 0, 1, 566, 300}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
-width = 983;
+width = 985;
 }
 );
 },
@@ -2325,7 +2168,7 @@ width = 1000;
 {
 color = 4;
 glyphname = Adieresis.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:37 +0000";
 layers = (
 {
 components = (
@@ -2338,7 +2181,7 @@ transform = "{1, 0, 0, 1, 547, 300}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
-width = 983;
+width = 985;
 }
 );
 },
@@ -2406,7 +2249,7 @@ width = 1000;
 {
 color = 4;
 glyphname = Agrave.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:37 +0000";
 layers = (
 {
 components = (
@@ -2419,7 +2262,7 @@ transform = "{1, 0, 0, 1, 480, 300}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
-width = 983;
+width = 985;
 }
 );
 },
@@ -2487,7 +2330,7 @@ width = 1000;
 {
 color = 4;
 glyphname = Amacron.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:37 +0000";
 layers = (
 {
 components = (
@@ -2500,7 +2343,7 @@ transform = "{1, 0, 0, 1, 617, 300}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
-width = 983;
+width = 985;
 }
 );
 },
@@ -2651,7 +2494,7 @@ width = 1000;
 {
 color = 4;
 glyphname = Aring.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:37 +0000";
 layers = (
 {
 components = (
@@ -2664,7 +2507,7 @@ transform = "{1, 0, 0, 1, 774, 300}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
-width = 983;
+width = 985;
 }
 );
 },
@@ -2732,7 +2575,7 @@ width = 1000;
 {
 color = 4;
 glyphname = Atilde.init;
-lastChange = "2016-10-16 13:14:36 +0000";
+lastChange = "2016-10-16 17:58:37 +0000";
 layers = (
 {
 components = (
@@ -2745,7 +2588,7 @@ transform = "{1, 0, 0, 1, 624, 300}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
-width = 983;
+width = 985;
 }
 );
 },
@@ -2770,8 +2613,9 @@ width = 1000;
 );
 },
 {
+color = 0;
 glyphname = AE;
-lastChange = "2016-10-16 14:04:46 +0000";
+lastChange = "2016-10-22 09:22:46 +0000";
 layers = (
 {
 components = (
@@ -2786,8 +2630,9 @@ width = 1018;
 unicode = 00C6;
 },
 {
+color = 0;
 glyphname = AE.fina;
-lastChange = "2016-10-16 13:10:49 +0000";
+lastChange = "2016-10-22 09:22:46 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -2796,8 +2641,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = AE.init;
-lastChange = "2016-10-16 13:11:16 +0000";
+lastChange = "2016-10-22 09:22:46 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -2806,8 +2652,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = AE.isol;
-lastChange = "2016-10-16 13:12:13 +0000";
+lastChange = "2016-10-22 09:22:46 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -4112,7 +3959,9 @@ leftMetricsKey = "=D";
 rightMetricsKey = "=D";
 },
 {
+color = 0;
 glyphname = Eth;
+lastChange = "2016-10-22 09:22:50 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -4203,7 +4052,9 @@ width = 919;
 );
 },
 {
+color = 0;
 glyphname = Dcroat;
+lastChange = "2016-10-22 09:22:56 +0000";
 layers = (
 {
 components = (
@@ -4218,7 +4069,9 @@ width = 600;
 unicode = 0110;
 },
 {
+color = 0;
 glyphname = Dcroat.fina;
+lastChange = "2016-10-22 09:22:59 +0000";
 layers = (
 {
 components = (
@@ -4232,7 +4085,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Dcroat.init;
+lastChange = "2016-10-22 09:22:59 +0000";
 layers = (
 {
 components = (
@@ -4246,7 +4101,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Dcroat.isol;
+lastChange = "2016-10-22 09:22:56 +0000";
 layers = (
 {
 components = (
@@ -6941,13 +6798,13 @@ width = 728;
 {
 color = 4;
 glyphname = H;
-lastChange = "2016-10-16 14:01:45 +0000";
+lastChange = "2016-10-22 09:33:32 +0000";
 layers = (
 {
 components = (
 {
 name = ndol;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 124, 0}";
 },
 {
 name = hlaskagorna;
@@ -6972,14 +6829,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"278 260 LINE",
-"107 260 LINE",
+"279 250 LINE",
+"108 250 LINE",
 "68 35 LINE",
 "234 -5 LINE"
 );
 }
 );
-width = 779;
+width = 781;
 },
 {
 associatedMasterId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -7023,7 +6880,7 @@ unicode = 0048;
 {
 color = 4;
 glyphname = H.fina;
-lastChange = "2016-10-16 14:01:45 +0000";
+lastChange = "2016-10-22 09:33:36 +0000";
 layers = (
 {
 components = (
@@ -7054,8 +6911,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"278 260 LINE",
-"107 260 LINE",
+"279 250 LINE",
+"108 250 LINE",
 "68 35 LINE",
 "234 -5 LINE"
 );
@@ -7069,13 +6926,13 @@ rightMetricsKey = n.fina;
 {
 color = 4;
 glyphname = H.init;
-lastChange = "2016-10-16 14:01:45 +0000";
+lastChange = "2016-10-22 09:33:42 +0000";
 layers = (
 {
 components = (
 {
 name = ndol;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 124, 0}";
 },
 {
 name = hlaskagorna;
@@ -7100,8 +6957,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"278 260 LINE",
-"107 260 LINE",
+"279 250 LINE",
+"108 250 LINE",
 "66 35 LINE",
 "232 -5 LINE"
 );
@@ -7116,7 +6973,7 @@ rightMetricsKey = "=H";
 {
 color = 4;
 glyphname = H.isol;
-lastChange = "2016-10-16 13:38:22 +0000";
+lastChange = "2016-10-22 09:33:46 +0000";
 layers = (
 {
 components = (
@@ -7147,8 +7004,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"278 260 LINE",
-"107 260 LINE",
+"279 250 LINE",
+"108 250 LINE",
 "68 35 LINE",
 "234 -5 LINE"
 );
@@ -7160,7 +7017,9 @@ width = 796;
 rightMetricsKey = "=n.fina";
 },
 {
+color = 0;
 glyphname = Hbar;
+lastChange = "2016-10-22 09:23:05 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -7170,7 +7029,9 @@ width = 600;
 unicode = 0126;
 },
 {
+color = 0;
 glyphname = Hbar.fina;
+lastChange = "2016-10-22 09:23:05 +0000";
 layers = (
 {
 components = (
@@ -7187,7 +7048,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Hbar.init;
+lastChange = "2016-10-22 09:23:05 +0000";
 layers = (
 {
 components = (
@@ -7204,7 +7067,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Hbar.isol;
+lastChange = "2016-10-22 09:23:05 +0000";
 layers = (
 {
 components = (
@@ -7223,7 +7088,7 @@ width = 600;
 {
 color = 4;
 glyphname = I;
-lastChange = "2016-10-16 13:38:36 +0000";
+lastChange = "2016-10-22 09:32:26 +0000";
 layers = (
 {
 anchors = (
@@ -7242,8 +7107,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"226 260 LINE",
-"55 260 LINE",
+"227 250 LINE",
+"56 250 LINE",
 "14 35 LINE",
 "180 -5 LINE"
 );
@@ -7386,7 +7251,7 @@ unicode = 0049;
 {
 color = 4;
 glyphname = I.fina;
-lastChange = "2016-10-16 14:01:45 +0000";
+lastChange = "2016-10-22 09:32:32 +0000";
 layers = (
 {
 anchors = (
@@ -7405,8 +7270,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"226 260 LINE",
-"55 260 LINE",
+"227 250 LINE",
+"56 250 LINE",
 "14 35 LINE",
 "180 -5 LINE"
 );
@@ -7457,7 +7322,7 @@ rightMetricsKey = "=I";
 {
 color = 4;
 glyphname = I.init;
-lastChange = "2016-10-16 13:38:53 +0000";
+lastChange = "2016-10-22 09:32:34 +0000";
 layers = (
 {
 anchors = (
@@ -7476,8 +7341,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"226 260 LINE",
-"55 260 LINE",
+"227 250 LINE",
+"56 250 LINE",
 "14 35 LINE",
 "180 -5 LINE"
 );
@@ -7527,7 +7392,7 @@ leftMetricsKey = "=I";
 {
 color = 4;
 glyphname = I.isol;
-lastChange = "2016-10-16 13:38:56 +0000";
+lastChange = "2016-10-22 09:32:37 +0000";
 layers = (
 {
 anchors = (
@@ -7546,8 +7411,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"226 260 LINE",
-"55 260 LINE",
+"227 250 LINE",
+"56 250 LINE",
 "14 35 LINE",
 "180 -5 LINE"
 );
@@ -9907,7 +9772,9 @@ width = 779;
 );
 },
 {
+color = 0;
 glyphname = Lcaron;
+lastChange = "2016-10-22 09:23:11 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -9917,7 +9784,9 @@ width = 600;
 unicode = 013D;
 },
 {
+color = 0;
 glyphname = Lcaron.fina;
+lastChange = "2016-10-22 09:23:11 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -9926,7 +9795,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Lcaron.init;
+lastChange = "2016-10-22 09:23:11 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -9935,7 +9806,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Lcaron.isol;
+lastChange = "2016-10-22 09:23:11 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -10021,7 +9894,9 @@ width = 779;
 );
 },
 {
+color = 0;
 glyphname = Lslash;
+lastChange = "2016-10-22 09:23:15 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -10031,7 +9906,9 @@ width = 600;
 unicode = 0141;
 },
 {
+color = 0;
 glyphname = Lslash.fina;
+lastChange = "2016-10-22 09:23:15 +0000";
 layers = (
 {
 components = (
@@ -10048,7 +9925,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Lslash.init;
+lastChange = "2016-10-22 09:23:15 +0000";
 layers = (
 {
 components = (
@@ -10065,7 +9944,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Lslash.isol;
+lastChange = "2016-10-22 09:23:15 +0000";
 layers = (
 {
 components = (
@@ -10084,7 +9965,7 @@ width = 600;
 {
 color = 4;
 glyphname = M;
-lastChange = "2016-10-16 14:01:45 +0000";
+lastChange = "2016-10-22 09:32:56 +0000";
 layers = (
 {
 components = (
@@ -10098,7 +9979,7 @@ transform = "{-1, 0, 0, -1, 544, 500}";
 },
 {
 name = ndol;
-transform = "{1, 0, 0, 1, 666, 0}";
+transform = "{1, 0, 0, 1, 668, 0}";
 },
 {
 name = hlaskagorna;
@@ -10149,8 +10030,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"842 260 LINE",
-"671 260 LINE",
+"843 250 LINE",
+"672 250 LINE",
 "632 35 LINE",
 "798 -5 LINE"
 );
@@ -10701,7 +10582,7 @@ unicode = 004D;
 {
 color = 4;
 glyphname = M.fina;
-lastChange = "2016-10-16 13:36:26 +0000";
+lastChange = "2016-10-22 09:33:04 +0000";
 layers = (
 {
 components = (
@@ -10762,8 +10643,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"842 260 LINE",
-"671 260 LINE",
+"843 250 LINE",
+"672 250 LINE",
 "632 35 LINE",
 "798 -5 LINE"
 );
@@ -10775,10 +10656,10 @@ nodes = (
 "1259 73 OFFCURVE",
 "1214 33 OFFCURVE",
 "1183 29 CURVE",
-"1222 260 LINE",
-"1051 260 LINE",
+"1223 250 LINE",
+"1052 250 LINE",
 "1031 134 LINE SMOOTH",
-"1017 47 OFFCURVE",
+"1015 47 OFFCURVE",
 "1062 -5 OFFCURVE",
 "1138 -5 CURVE SMOOTH",
 "1213 -5 OFFCURVE",
@@ -11343,8 +11224,9 @@ width = 955;
 );
 },
 {
+color = 0;
 glyphname = Eng;
-lastChange = "2016-08-20 08:48:26 +0000";
+lastChange = "2016-10-22 09:23:19 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -12043,7 +11925,9 @@ width = 792;
 );
 },
 {
+color = 0;
 glyphname = Oslash;
+lastChange = "2016-10-22 09:22:30 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -12053,7 +11937,9 @@ width = 600;
 unicode = 00D8;
 },
 {
+color = 0;
 glyphname = Oslash.fina;
+lastChange = "2016-10-22 09:22:30 +0000";
 layers = (
 {
 components = (
@@ -12070,7 +11956,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Oslash.init;
+lastChange = "2016-10-22 09:22:30 +0000";
 layers = (
 {
 components = (
@@ -12087,7 +11975,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Oslash.isol;
+lastChange = "2016-10-22 09:22:30 +0000";
 layers = (
 {
 components = (
@@ -12185,8 +12075,9 @@ width = 792;
 );
 },
 {
+color = 0;
 glyphname = OE;
-lastChange = "2016-08-20 08:47:28 +0000";
+lastChange = "2016-10-22 09:22:34 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -12346,8 +12237,9 @@ width = 770;
 );
 },
 {
+color = 0;
 glyphname = Thorn;
-lastChange = "2016-08-20 08:47:28 +0000";
+lastChange = "2016-10-22 09:22:36 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -13569,8 +13461,9 @@ width = 642;
 );
 },
 {
+color = 0;
 glyphname = Tbar;
-lastChange = "2016-10-16 15:48:56 +0000";
+lastChange = "2016-10-22 09:22:25 +0000";
 layers = (
 {
 components = (
@@ -13585,7 +13478,9 @@ width = 642;
 unicode = 0166;
 },
 {
+color = 0;
 glyphname = Tbar.fina;
+lastChange = "2016-10-22 09:22:25 +0000";
 layers = (
 {
 components = (
@@ -13602,7 +13497,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Tbar.init;
+lastChange = "2016-10-22 09:22:25 +0000";
 layers = (
 {
 components = (
@@ -13619,7 +13516,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = Tbar.isol;
+lastChange = "2016-10-22 09:22:25 +0000";
 layers = (
 {
 components = (
@@ -13796,7 +13695,7 @@ width = 600;
 {
 color = 4;
 glyphname = U;
-lastChange = "2016-10-16 13:30:14 +0000";
+lastChange = "2016-10-22 09:34:53 +0000";
 layers = (
 {
 anchors = (
@@ -13808,7 +13707,7 @@ position = "{626, 800}";
 components = (
 {
 name = ndol;
-transform = "{1, 0, 0, 1, 278, 1}";
+transform = "{1, 0, 0, 1, 280, 1}";
 },
 {
 name = hlaskagorna;
@@ -13990,7 +13889,7 @@ unicode = 0055;
 {
 color = 4;
 glyphname = U.fina;
-lastChange = "2016-10-16 13:37:37 +0000";
+lastChange = "2016-10-22 09:35:04 +0000";
 layers = (
 {
 anchors = (
@@ -14025,7 +13924,7 @@ nodes = (
 "238 47 LINE",
 "404 7 LINE",
 "525 92 OFFCURVE",
-"667 257 OFFCURVE",
+"668 247 OFFCURVE",
 "718 412 CURVE",
 "706 445 LINE"
 );
@@ -14037,10 +13936,10 @@ nodes = (
 "871 73 OFFCURVE",
 "826 33 OFFCURVE",
 "795 29 CURVE",
-"836 260 LINE",
-"665 260 LINE",
+"837 250 LINE",
+"666 250 LINE",
 "643 134 LINE SMOOTH",
-"628 47 OFFCURVE",
+"626 47 OFFCURVE",
 "674 -5 OFFCURVE",
 "750 -5 CURVE SMOOTH",
 "825 -5 OFFCURVE",
@@ -14853,7 +14752,7 @@ width = 785;
 {
 color = 4;
 glyphname = W;
-lastChange = "2016-10-16 13:31:57 +0000";
+lastChange = "2016-10-22 09:35:16 +0000";
 layers = (
 {
 anchors = (
@@ -14866,10 +14765,6 @@ components = (
 {
 name = hlaskagorna;
 transform = "{-1, 0, 0, -1, 940, 807}";
-},
-{
-name = igora;
-transform = "{1, 0, 0, 1, 618, 297}";
 },
 {
 name = Mokragle;
@@ -14925,6 +14820,15 @@ nodes = (
 "830 262 LINE",
 "659 262 LINE",
 "619 47 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"713 557 LINE",
+"884 557 LINE",
+"925 762 LINE",
+"759 802 LINE"
 );
 }
 );
@@ -18252,7 +18156,7 @@ width = 898;
 {
 color = 4;
 glyphname = b;
-lastChange = "2016-10-15 22:51:03 +0000";
+lastChange = "2016-10-22 09:35:45 +0000";
 layers = (
 {
 associatedMasterId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -18304,7 +18208,7 @@ width = 614;
 components = (
 {
 name = igora;
-transform = "{-1, 0, 0, -1, 323, 500}";
+transform = "{-1, 0, 0, -1, 325, 500}";
 },
 {
 name = hlaskagorna;
@@ -18327,13 +18231,13 @@ unicode = 0062;
 {
 color = 4;
 glyphname = b.fina;
-lastChange = "2016-10-15 22:51:03 +0000";
+lastChange = "2016-10-22 09:35:49 +0000";
 layers = (
 {
 components = (
 {
 name = igora;
-transform = "{-1, 0, 0, -1, 323, 500}";
+transform = "{-1, 0, 0, -1, 325, 500}";
 },
 {
 name = hlaskagorna;
@@ -18401,13 +18305,13 @@ rightMetricsKey = "=o";
 {
 color = 4;
 glyphname = b.init;
-lastChange = "2016-10-15 22:51:03 +0000";
+lastChange = "2016-10-22 09:35:51 +0000";
 layers = (
 {
 components = (
 {
 name = igora;
-transform = "{-1, 0, 0, -1, 323, 500}";
+transform = "{-1, 0, 0, -1, 325, 500}";
 },
 {
 name = hlaskagorna;
@@ -18475,13 +18379,13 @@ rightMetricsKey = "=o";
 {
 color = 4;
 glyphname = b.isol;
-lastChange = "2016-10-15 22:51:03 +0000";
+lastChange = "2016-10-22 09:35:54 +0000";
 layers = (
 {
 components = (
 {
 name = igora;
-transform = "{-1, 0, 0, -1, 323, 500}";
+transform = "{-1, 0, 0, -1, 325, 500}";
 },
 {
 name = hlaskagorna;
@@ -24262,16 +24166,21 @@ unicode = 00ED;
 {
 color = 4;
 glyphname = iacute.fina;
-lastChange = "2016-10-15 23:08:36 +0000";
+lastChange = "2016-10-22 09:26:07 +0000";
 layers = (
 {
 components = (
 {
-name = idotless;
-},
-{
 name = acutecomb;
 transform = "{1, 0, 0, 1, -125, 0}";
+},
+{
+name = igora;
+transform = "{1, 0, 0, 1, -56, 0}";
+},
+{
+name = nogakoniec;
+transform = "{1, 0, 0, 1, -344, 0}";
 }
 );
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -27919,8 +27828,9 @@ width = 667;
 );
 },
 {
+color = 0;
 glyphname = eng;
-lastChange = "2016-08-20 08:48:26 +0000";
+lastChange = "2016-10-22 09:21:59 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -28921,7 +28831,9 @@ width = 564;
 );
 },
 {
+color = 0;
 glyphname = oslash;
+lastChange = "2016-10-22 09:22:03 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -28931,7 +28843,9 @@ width = 600;
 unicode = 00F8;
 },
 {
+color = 0;
 glyphname = oslash.fina;
+lastChange = "2016-10-22 09:22:03 +0000";
 layers = (
 {
 components = (
@@ -28948,7 +28862,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = oslash.init;
+lastChange = "2016-10-22 09:22:03 +0000";
 layers = (
 {
 components = (
@@ -28965,7 +28881,9 @@ width = 600;
 );
 },
 {
+color = 0;
 glyphname = oslash.isol;
+lastChange = "2016-10-22 09:22:03 +0000";
 layers = (
 {
 components = (
@@ -29063,8 +28981,9 @@ width = 564;
 );
 },
 {
+color = 0;
 glyphname = oe;
-lastChange = "2016-09-30 17:05:42 +0000";
+lastChange = "2016-10-22 09:22:08 +0000";
 layers = (
 {
 components = (
@@ -29576,8 +29495,9 @@ rightKerningGroup = o;
 rightMetricsKey = "=o";
 },
 {
+color = 0;
 glyphname = thorn;
-lastChange = "2016-08-20 08:47:28 +0000";
+lastChange = "2016-10-22 09:22:08 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -32072,8 +31992,9 @@ width = 412;
 );
 },
 {
+color = 0;
 glyphname = germandbls;
-lastChange = "2016-08-20 08:47:28 +0000";
+lastChange = "2016-10-22 09:22:13 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -38719,8 +38640,9 @@ width = 350;
 unicode = 0020;
 },
 {
+color = 0;
 glyphname = cent;
-lastChange = "2016-08-04 21:47:44 +0000";
+lastChange = "2016-10-22 09:23:42 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -38730,8 +38652,9 @@ width = 600;
 unicode = 00A2;
 },
 {
+color = 0;
 glyphname = dollar;
-lastChange = "2016-08-04 21:47:44 +0000";
+lastChange = "2016-10-22 09:23:42 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -38741,8 +38664,9 @@ width = 600;
 unicode = 0024;
 },
 {
+color = 0;
 glyphname = sterling;
-lastChange = "2016-08-04 21:47:44 +0000";
+lastChange = "2016-10-22 09:23:42 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -38752,8 +38676,9 @@ width = 600;
 unicode = 00A3;
 },
 {
+color = 0;
 glyphname = yen;
-lastChange = "2016-08-04 21:47:44 +0000";
+lastChange = "2016-10-22 09:23:42 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -38763,8 +38688,9 @@ width = 600;
 unicode = 00A5;
 },
 {
+color = 0;
 glyphname = bar;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:42 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -38774,8 +38700,9 @@ width = 600;
 unicode = 007C;
 },
 {
+color = 0;
 glyphname = brokenbar;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:42 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -39437,8 +39364,9 @@ width = 897;
 unicode = 0026;
 },
 {
+color = 0;
 glyphname = paragraph;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:46 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -39448,8 +39376,9 @@ width = 600;
 unicode = 00B6;
 },
 {
+color = 0;
 glyphname = copyright;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:46 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -39459,8 +39388,9 @@ width = 600;
 unicode = 00A9;
 },
 {
+color = 0;
 glyphname = registered;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:46 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -39470,8 +39400,9 @@ width = 600;
 unicode = 00AE;
 },
 {
+color = 0;
 glyphname = section;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:46 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -39481,8 +39412,9 @@ width = 600;
 unicode = 00A7;
 },
 {
+color = 0;
 glyphname = trademark;
-lastChange = "2016-10-16 14:03:45 +0000";
+lastChange = "2016-10-22 09:23:50 +0000";
 layers = (
 {
 components = (
@@ -39501,8 +39433,9 @@ width = 1965;
 unicode = 2122;
 },
 {
+color = 0;
 glyphname = degree;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:50 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -39512,8 +39445,9 @@ width = 600;
 unicode = 00B0;
 },
 {
+color = 0;
 glyphname = asciicircum;
-lastChange = "2016-08-29 08:59:44 +0000";
+lastChange = "2016-10-22 09:23:50 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -39523,8 +39457,9 @@ width = 600;
 unicode = 005E;
 },
 {
+color = 0;
 glyphname = dagger;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:50 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -39534,8 +39469,9 @@ width = 600;
 unicode = 2020;
 },
 {
+color = 0;
 glyphname = daggerdbl;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:50 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -41156,7 +41092,7 @@ rightMetricsKey = f;
 },
 {
 glyphname = r_z;
-lastChange = "2016-08-20 10:17:30 +0000";
+lastChange = "2016-10-16 17:58:36 +0000";
 layers = (
 {
 components = (
@@ -41242,7 +41178,7 @@ nodes = (
 );
 }
 );
-width = 997;
+width = 985;
 }
 );
 leftMetricsKey = "=r";
@@ -41250,7 +41186,7 @@ rightMetricsKey = z;
 },
 {
 glyphname = y_j;
-lastChange = "2016-10-07 16:11:57 +0000";
+lastChange = "2016-10-16 17:58:36 +0000";
 layers = (
 {
 components = (
@@ -41299,7 +41235,7 @@ nodes = (
 );
 }
 );
-width = 972;
+width = 969;
 }
 );
 leftMetricsKey = y;
@@ -41605,8 +41541,9 @@ width = 476;
 unicode = 00BB;
 },
 {
+color = 0;
 glyphname = currency;
-lastChange = "2016-08-04 21:47:44 +0000";
+lastChange = "2016-10-22 09:23:57 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -41616,8 +41553,9 @@ width = 600;
 unicode = 00A4;
 },
 {
+color = 0;
 glyphname = euro;
-lastChange = "2016-08-04 21:47:44 +0000";
+lastChange = "2016-10-22 09:23:57 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -41627,8 +41565,9 @@ width = 600;
 unicode = 20AC;
 },
 {
+color = 0;
 glyphname = lozenge;
-lastChange = "2016-08-28 11:21:20 +0000";
+lastChange = "2016-10-22 09:23:57 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -43054,7 +42993,7 @@ width = 264;
 },
 {
 glyphname = tkreska;
-lastChange = "2016-10-16 14:29:49 +0000";
+lastChange = "2016-10-22 09:38:25 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -43062,8 +43001,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"29 472 LINE",
-"344 472 LINE",
+"29 475 LINE",
+"344 475 LINE",
 "344 500 LINE",
 "29 500 LINE"
 );
